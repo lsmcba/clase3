@@ -1,0 +1,1475 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Linux Mint - Wikipedia, la enciclopedia libre</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgRequestId":"ef13832f-0f83-433b-b7af-20290a35337a","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Linux_Mint","wgTitle":"Linux Mint","wgCurRevisionId":145144778,"wgRevisionId":145144778,"wgArticleId":945089,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Distribuciones basadas en Ubuntu","Distribuciones basadas en Debian GNU/Linux","Distribuciones GNU/Linux de Irlanda","Distribuciones Linux","Introducciones relacionadas a la ciencia de la computación de 2006"],"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":
+"Linux_Mint","wgRelevantArticleId":945089,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":50000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"español","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q2027","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":true,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"ext.gadget.imagenesinfobox":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.gallery","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.a-commons-directo","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.page.gallery.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.imagenesinfobox&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.39.0-wmf.22"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Linux_Mint_20.3_Cinnamon_eng.png/1200px-Linux_Mint_20.3_Cinnamon_eng.png"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="750"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Linux_Mint_20.3_Cinnamon_eng.png/800px-Linux_Mint_20.3_Cinnamon_eng.png"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="500"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Linux_Mint_20.3_Cinnamon_eng.png/640px-Linux_Mint_20.3_Cinnamon_eng.png"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="400"/>
+<meta name="viewport" content="width=1000, initial-scale=1.0"/>
+<meta property="og:title" content="Linux Mint - Wikipedia, la enciclopedia libre"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//es.m.wikipedia.org/wiki/Linux_Mint"/>
+<link rel="alternate" type="application/x-wiki" title="Editar" href="/w/index.php?title=Linux_Mint&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (es)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//es.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://es.wikipedia.org/wiki/Linux_Mint"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Linux_Mint rootpage-Linux_Mint skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading">Linux Mint</h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">De Wikipedia, la enciclopedia libre</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Ir a la navegación</a>
+		<a class="mw-jump-link" href="#searchInput">Ir a la búsqueda</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="es" dir="ltr"><div class="mw-parser-output"><style data-mw-deduplicate="TemplateStyles:r144106961">.mw-parser-output .infobox .imagen{max-width:100%;margin:0 auto}.mw-parser-output .infobox .imagen img{max-width:100%;height:auto}body.skin-timeless .mw-parser-output .infobox .imagen a.image>img{max-width:100%!important;height:auto!important}</style><table class="infobox" style="width:22.7em; line-height: 1.4em; text-align:left; padding:.23em;"><tbody><tr><th colspan="3" class="cabecera pc" style="text-align:center;background-color:transparent;color:black;;background-color:#DCEAEC;">Linux Mint</th></tr><tr><td colspan="3" style="text-align:center;width:65%;">
+<i>Parte de la familia <a href="/wiki/GNU/Linux" title="GNU/Linux">GNU/Linux</a></i></td></tr><tr><td colspan="3" class="imagen" style="text-align:center;width:65%;">
+<a href="/wiki/Archivo:The_Linux_Mint_Logo.svg" class="image"><img alt="The Linux Mint Logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_Linux_Mint_Logo.svg/250px-The_Linux_Mint_Logo.svg.png" decoding="async" width="250" height="60" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_Linux_Mint_Logo.svg/375px-The_Linux_Mint_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_Linux_Mint_Logo.svg/500px-The_Linux_Mint_Logo.svg.png 2x" data-file-width="1060" data-file-height="256" /></a></td></tr><tr><td colspan="3" class="imagen" style="text-align:center;width:65%;">
+<a href="/wiki/Archivo:Linux_Mint_20.3_Cinnamon_eng.png" class="image"><img alt="Linux Mint 20.3 Cinnamon eng.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Linux_Mint_20.3_Cinnamon_eng.png/280px-Linux_Mint_20.3_Cinnamon_eng.png" decoding="async" width="280" height="175" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Linux_Mint_20.3_Cinnamon_eng.png/420px-Linux_Mint_20.3_Cinnamon_eng.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Linux_Mint_20.3_Cinnamon_eng.png/560px-Linux_Mint_20.3_Cinnamon_eng.png 2x" data-file-width="2560" data-file-height="1600" /></a></td></tr><tr><th colspan="3" style="text-align:center;background-color:#DCEAEC;">Información general</th></tr><tr><th scope="row" style="text-align:left;width:35%;background-color:#eef5f6;"><a href="/wiki/Desarrollador_de_software" title="Desarrollador de software">Desarrollador</a></th><td colspan="2" style="width:65%;">
+Clement Lefebvre, Jamie Boo Birse, Kendall Weaver, y La Comunidad</td></tr><tr><th scope="row" style="text-align:left;width:35%;background-color:#eef5f6;"><a href="/wiki/Ingenier%C3%ADa_de_software" title="Ingeniería de software">Modelo de desarrollo</a></th><td colspan="2" style="width:65%;">
+<a href="/wiki/Software_libre_y_de_c%C3%B3digo_abierto" title="Software libre y de código abierto">Software libre y de código abierto</a></td></tr><tr><th scope="row" style="text-align:left;width:35%;background-color:#eef5f6;">Lanzamiento inicial</th><td colspan="2" style="width:65%;">
+27 de agosto de 2006</td></tr><tr><th scope="row" style="text-align:left;width:35%;background-color:#eef5f6;"><a href="/wiki/Licencia_de_software" title="Licencia de software">Licencia</a></th><td colspan="2" style="width:65%;">
+<a href="/wiki/Licencia_p%C3%BAblica_general_de_GNU" class="mw-redirect" title="Licencia pública general de GNU">GPL</a></td></tr><tr><th scope="row" style="text-align:left;width:35%;background-color:#eef5f6;">Estado actual</th><td colspan="2" style="width:65%;">
+Estable</td></tr><tr><th scope="row" style="text-align:left;width:35%;background-color:#eef5f6;"><a href="/wiki/Idioma" title="Idioma">Idiomas</a></th><td colspan="2" style="width:65%;">
+<a href="/wiki/Multiling%C3%BCe" class="mw-redirect" title="Multilingüe">Multilingüe</a></td></tr><tr><th colspan="3" style="text-align:center;background-color:#DCEAEC;">Información técnica</th></tr><tr><th scope="row" style="text-align:left;width:35%;background-color:#eef5f6;"><a href="/wiki/N%C3%BAcleo_(inform%C3%A1tica)" title="Núcleo (informática)">Núcleo</a></th><td colspan="2" style="width:65%;">
+<a href="/wiki/Linux_(n%C3%BAcleo)" class="mw-redirect" title="Linux (núcleo)">Linux</a></td></tr><tr><th scope="row" style="text-align:left;width:35%;background-color:#eef5f6;">Tipo de núcleo</th><td colspan="2" style="width:65%;">
+<a href="/wiki/N%C3%BAcleo_monol%C3%ADtico" title="Núcleo monolítico">Monolítico</a></td></tr><tr><th scope="row" style="text-align:left;width:35%;background-color:#eef5f6;"><a href="/wiki/Plataforma_(inform%C3%A1tica)" title="Plataforma (informática)">Plataformas admitidas</a></th><td colspan="2" style="width:65%;">
+<ul style="list-style-type:none;list-style-image:none;margin-left:0;padding-left:0"><li><a href="/wiki/X86-64" title="X86-64">x86_64</a></li><li><a href="/wiki/X86" title="X86">x86</a></li><li><a href="/wiki/IA-32" title="IA-32">IA-32</a></li></ul></td></tr><tr><th scope="row" style="text-align:left;width:35%;background-color:#eef5f6;"><a href="/wiki/Interfaz_gr%C3%A1fica_de_usuario" title="Interfaz gráfica de usuario">Interfaz gráfica</a> predeterminada</th><td colspan="2" style="width:65%;">
+<a href="/wiki/MATE" title="MATE">MATE</a>, <a href="/wiki/Cinnamon" title="Cinnamon">Cinnamon</a>, <a href="/wiki/XFCE" class="mw-redirect" title="XFCE">XFCE</a></td></tr><tr><th scope="row" style="text-align:left;width:35%;background-color:#eef5f6;"><a href="/wiki/Sistema_de_gesti%C3%B3n_de_paquetes" title="Sistema de gestión de paquetes">Sistema de gestión de paquetes</a></th><td colspan="2" style="width:65%;">
+<a href="/wiki/Dpkg" title="Dpkg">dpkg</a></td></tr><tr><th scope="row" style="text-align:left;width:35%;background-color:#eef5f6;"><a href="/wiki/Parche_(inform%C3%A1tica)" title="Parche (informática)">Método de actualización</a></th><td colspan="2" style="width:65%;">
+<a href="/wiki/Advanced_Packaging_Tool" title="Advanced Packaging Tool">APT</a></td></tr><tr><th colspan="3" style="text-align:center;background-color:#DCEAEC;">Versiones</th></tr><tr><th scope="row" style="text-align:left;width:35%;background-color:#eef5f6;"><a href="/wiki/Ciclo_de_vida_del_lanzamiento_de_software" title="Ciclo de vida del lanzamiento de software">Última versión estable</a></th><td colspan="2" style="text-align:left;">
+21.0 “Vanessa” (<a rel="nofollow" class="external text" href="https://blog.linuxmint.com/?p=4101">info</a>) <small>( 31 de julio de 2022 (2 días))</small></td></tr><tr><th colspan="3" style="text-align:center;background-color:#DCEAEC;">Asistencia técnica</th></tr><tr><td colspan="3" style="text-align:center;width:65%;">
+<span style="font-size:smaller">Hasta 2023</span></td></tr><tr><th colspan="3" style="text-align:center;background-color:#DCEAEC;">Enlaces</th></tr><tr><td colspan="3" style="text-align:center;width:65%;">
+<div><a rel="nofollow" class="external text" href="https://linuxmint.com/">Sitio web oficial</a></div>
+<div><a rel="nofollow" class="external text" href="https://blog.linuxmint.com">Blog</a></div>
+<div><a rel="nofollow" class="external text" href="https://bugs.launchpad.net/linuxmint">Seguimiento de errores</a></div>
+</td></tr><tr><td class="noprint" colspan="3" style="text-align:left;"><div class="plainlinks wikidata-link" style="font-size: 0.85em">&#x5b;<a href="https://www.wikidata.org/wiki/Q2027" class="extiw" title="d:Q2027">editar datos en Wikidata</a>&#x5d;</div></td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/Archivo:LinuxMint_18_Cinnamon.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/LinuxMint_18_Cinnamon.png/220px-LinuxMint_18_Cinnamon.png" decoding="async" width="220" height="124" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/LinuxMint_18_Cinnamon.png/330px-LinuxMint_18_Cinnamon.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/LinuxMint_18_Cinnamon.png/440px-LinuxMint_18_Cinnamon.png 2x" data-file-width="1600" data-file-height="900" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:LinuxMint_18_Cinnamon.png" class="internal" title="Aumentar"></a></div>Linux Mint 18 con Cinnamon</div></div></div>
+<p><b>Linux Mint</b> es una <a href="/wiki/Distribuci%C3%B3n_Linux" title="Distribución Linux">distribución de GNU/Linux</a> comunitaria de origen franco-irlandesa basada en <a href="/wiki/Ubuntu" title="Ubuntu">Ubuntu</a>, y a su vez en <a href="/wiki/Debian" class="mw-redirect" title="Debian">Debian</a>, que tiene por objetivo proveer "un sistema operativo moderno, elegante y cómodo que sea tanto poderoso como fácil de usar".<sup id="cite_ref-1" class="reference separada"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>&#8203; Linux Mint soporta varios formatos y códecs <a href="/wiki/Multimedia" title="Multimedia">multimedia</a> al incluir <a href="/wiki/Software_propietario" title="Software propietario">software propietario</a> y empaquetado con una variedad de aplicaciones gratuitas y de <a href="/wiki/C%C3%B3digo_abierto" title="Código abierto">código abierto</a>.<sup id="cite_ref-2" class="reference separada"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>&#8203;<sup id="cite_ref-3" class="reference separada"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p><p>El proyecto fue concebido por Clément Lefèbvre y está siendo activamente desarrollado por el Equipo de Linux Team y la comunidad.<sup id="cite_ref-4" class="reference separada"><a href="#cite_note-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="es" dir="ltr"><h2 id="mw-toc-heading">Índice</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Características"><span class="tocnumber">1</span> <span class="toctext">Características</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Herramientas_preinstaladas"><span class="tocnumber">1.1</span> <span class="toctext">Herramientas preinstaladas</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Instalación"><span class="tocnumber">1.2</span> <span class="toctext">Instalación</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Actualización"><span class="tocnumber">1.3</span> <span class="toctext">Actualización</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Lanzamientos"><span class="tocnumber">2</span> <span class="toctext">Lanzamientos</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Linux_Mint_(Main)"><span class="tocnumber">2.1</span> <span class="toctext">Linux Mint (Main)</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Linux_Mint_Debian_Edition_(LMDE)[23]​"><span class="tocnumber">2.2</span> <span class="toctext">Linux Mint Debian Edition (LMDE)<sup><span>[</span>23<span>]</span></sup>&#8203;</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Ediciones"><span class="tocnumber">3</span> <span class="toctext">Ediciones</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Ediciones_basadas_en_Ubuntu"><span class="tocnumber">3.1</span> <span class="toctext">Ediciones basadas en Ubuntu</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Edición_Edge_de_Cinnamon"><span class="tocnumber">3.2</span> <span class="toctext">Edición Edge de Cinnamon</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#OEM"><span class="tocnumber">3.3</span> <span class="toctext">OEM</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Versión_sin_códecs"><span class="tocnumber">3.4</span> <span class="toctext">Versión sin códecs</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#LMDE"><span class="tocnumber">3.5</span> <span class="toctext">LMDE</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Ramas_de_desarrollo"><span class="tocnumber">4</span> <span class="toctext">Ramas de desarrollo</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Mantenedores"><span class="tocnumber">5</span> <span class="toctext">Mantenedores</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Requerimientos_de_sistema"><span class="tocnumber">6</span> <span class="toctext">Requerimientos de sistema</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Desarrollo"><span class="tocnumber">7</span> <span class="toctext">Desarrollo</span></a>
+<ul>
+<li class="toclevel-2 tocsection-18"><a href="#Clasificación_de_paquetes"><span class="tocnumber">7.1</span> <span class="toctext">Clasificación de paquetes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Recepción"><span class="tocnumber">8</span> <span class="toctext">Recepción</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#Referencias"><span class="tocnumber">9</span> <span class="toctext">Referencias</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#Véase_también"><span class="tocnumber">10</span> <span class="toctext">Véase también</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#Enlaces_externos"><span class="tocnumber">11</span> <span class="toctext">Enlaces externos</span></a></li>
+</ul>
+</div>
+
+<h2><span id="Caracter.C3.ADsticas"></span><span class="mw-headline" id="Características">Características</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Linux_Mint&amp;action=edit&amp;section=1" title="Editar sección: Características">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Herramientas_preinstaladas">Herramientas preinstaladas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Linux_Mint&amp;action=edit&amp;section=2" title="Editar sección: Herramientas preinstaladas">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Linux Mint incluye varias herramientas preinstaladas con el objetivo de satisfacer las necesidades básicas del usuario. Algunas herramientas incluidas son:
+</p>
+<ul><li><b><a href="/wiki/GIMP" title="GIMP">GIMP</a></b> como <a href="/wiki/Editor_de_gr%C3%A1ficos_rasterizados" title="Editor de gráficos rasterizados">editor de gráficos rasterizado</a> (reemplazado por Drawing en Linux Mint 19.3).</li>
+<li><b><a href="/wiki/LibreOffice" title="LibreOffice">LibreOffice</a></b> como suite de ofimática.</li>
+<li><b><a href="/wiki/Mozilla_Firefox" title="Mozilla Firefox">Mozilla Firefox</a></b> como <a href="/wiki/Navegador_web" title="Navegador web">navegador web</a>.</li>
+<li><b><a href="/wiki/Mozilla_Thunderbird" title="Mozilla Thunderbird">Mozilla Thunderbird</a></b> como <a href="/wiki/Cliente_de_correo_electr%C3%B3nico" title="Cliente de correo electrónico">cliente de correo electrónico</a>.</li>
+<li><b><a href="/wiki/Transmission" title="Transmission">Transmission</a></b> como cliente de <a href="/wiki/BitTorrent" title="BitTorrent">BitTorrent</a>.</li></ul>
+<p>También viene con su propio juego de aplicaciones con el objetivo de hacer más sencilla la experiencia del usuario.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:122px;"><a href="/wiki/Archivo:Mintupdate_1.9_A.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mintupdate_1.9_A.png/120px-Mintupdate_1.9_A.png" decoding="async" width="120" height="107" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mintupdate_1.9_A.png/180px-Mintupdate_1.9_A.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mintupdate_1.9_A.png/240px-Mintupdate_1.9_A.png 2x" data-file-width="707" data-file-height="628" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Mintupdate_1.9_A.png" class="internal" title="Aumentar"></a></div>Mintupdate</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:122px;"><a href="/wiki/Archivo:Mintinstall2.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Mintinstall2.png/120px-Mintinstall2.png" decoding="async" width="120" height="93" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Mintinstall2.png/180px-Mintinstall2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Mintinstall2.png/240px-Mintinstall2.png 2x" data-file-width="762" data-file-height="590" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Mintinstall2.png" class="internal" title="Aumentar"></a></div>Mintinstall</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:122px;"><a href="/wiki/Archivo:MintMenu_3.0.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/MintMenu_3.0.png/120px-MintMenu_3.0.png" decoding="async" width="120" height="86" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/MintMenu_3.0.png/180px-MintMenu_3.0.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/MintMenu_3.0.png/240px-MintMenu_3.0.png 2x" data-file-width="615" data-file-height="443" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:MintMenu_3.0.png" class="internal" title="Aumentar"></a></div>MintMenu</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:122px;"><a href="/wiki/Archivo:MintUpload_1.2.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/MintUpload_1.2.png/120px-MintUpload_1.2.png" decoding="async" width="120" height="66" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/MintUpload_1.2.png/180px-MintUpload_1.2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/MintUpload_1.2.png/240px-MintUpload_1.2.png 2x" data-file-width="509" data-file-height="281" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:MintUpload_1.2.png" class="internal" title="Aumentar"></a></div>MintUpload</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:122px;"><a href="/wiki/Archivo:MintBackup.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/MintBackup.png/120px-MintBackup.png" decoding="async" width="120" height="50" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/MintBackup.png/180px-MintBackup.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/MintBackup.png/240px-MintBackup.png 2x" data-file-width="724" data-file-height="300" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:MintBackup.png" class="internal" title="Aumentar"></a></div>MintBackup</div></div></div>
+<ul><li><b>MintUpdate:</b> diseñado especialmente para principiantes Linux Mint, y desarrollado para los usuarios que instalan actualizaciones prescindibles o que requieren un nivel de conocimiento para configurarlas apropiadamente. MintUpdate asigna a cada actualización un nivel de seguridad (que va de 1 a 5), basado en la estabilidad y necesidad de la actualización, según el criterio de los desarrolladores líderes. Esta herramienta se incluye por primera vez en la edición 4.0 Daryna.</li>
+<li><b>MintInstall:</b> Sirve para descargar programas desde los catálogos de archivos <i>.mint</i> que están alojados en el Portal de Software de Linux Mint. Un archivo <code>.mint</code> no contiene el programa, pero sí contiene toda su información y recursos desde los cuales será descargado.</li>
+<li><b>MintDesktop:</b> Usado para la configuración del escritorio. MintDesktop ha recibido una mejora significativa en la versión 4.0.</li>
+<li><b>MintConfig:</b> Un centro de control personalizable, que facilita la configuración del sistema.</li>
+<li><b>MintAssistant:</b> Un asistente personalizable que aparece durante el primer acceso (login) del usuario, guiándole por varias preguntas para personalizar la base de Mint de acuerdo con el nivel de conocimiento del usuario y su comodidad con varios componentes de <a href="/wiki/Linux" class="mw-redirect" title="Linux">Linux</a>.</li>
+<li><b>MintUpload:</b> Un <a href="/wiki/Cliente_FTP" title="Cliente FTP">cliente FTP</a>, integrado al menú contextual de Nautilus, con el fin de facilitar la compartir archivos de forma sencilla y rápida. Básicamente, el archivo es alojado en un <a href="/wiki/File_Transfer_Protocol" class="mw-redirect" title="File Transfer Protocol">servidor FTP</a>, con capacidad limitada a 1 <a href="/wiki/Gigabyte" title="Gigabyte">Gigabyte</a> por usuario (ampliable al comprar el servicio <i>Mint-space</i>). Para compartir el archivo basta con posicionarse sobre él, hacer clic derecho y elegir la opción "upload", luego aparecerá una ventana desde la cual se elige el perfil "Default" y se hace clic en el botón "upload". Finalmente se espera a que el archivo sea subido. Cuando se haya completado el alojamiento, en la parte inferior de la ventana de mintupload aparecerá el <a href="/wiki/Hiperenlace" title="Hiperenlace">hiperenlace</a> de descarga del archivo.</li>
+<li><b>MintMenu:</b> Es un menú escrito en <a href="/wiki/Python" title="Python">python</a> que permite plena personalización de textos, iconos  colores. Mantiene un aspecto similar al menú de <a href="/wiki/OpenSUSE" title="OpenSUSE">openSUSE</a> 10.3</li>
+<li><b>MintBackup:</b> Programa que facilita el respaldo y posterior restauración tanto de archivos de usuario como de software del sistema.</li>
+<li><b>MintNanny:</b> Es un programa que permite restringir el acceso a ciertas páginas de Internet definidas por el usuario.</li>
+<li><b>Warpinator:</b> Herramienta introducida en Linux Mint 20 "Ulyana". Tiene como objetivo permitir enviar y recibir archivos de forma fácil en una red local.</li></ul>
+<h3><span id="Instalaci.C3.B3n"></span><span class="mw-headline" id="Instalación">Instalación</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Linux_Mint&amp;action=edit&amp;section=3" title="Editar sección: Instalación">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>En el pasado, Linux Mint se podía ejecutar sin necesidad de instalación de un <a href="/wiki/Live_CD" title="Live CD">Live CD</a>. A partir de 2014, debido la limitación de los CD, solo están disponibles los <a href="/wiki/Live_DVD" class="mw-redirect" title="Live DVD">Live DVD</a>. También se puede instalar en un ordenador desde el DVD para una mejora significativa del rendimiento, una vez confirmada la compatibilidad, utilizando para ello el instalador <a href="/wiki/Ubiquity_(software)" title="Ubiquity (software)">Ubiquity</a>.
+</p><p>Las imágenes de DVD de instalación se pueden descargar de forma gratuita o adquirir un DVD de instalación. Linux Mint se puede arrancar y ejecutar desde una unidad flash USB en cualquier ordenador capaz de arrancar desde una unidad USB, con la opción de guardar los ajustes de la unidad flash (<a href="/wiki/Persistencia_(inform%C3%A1tica)" title="Persistencia (informática)">persistencia</a>, como en Ubuntu). Un <a href="/wiki/Creador_de_discos_de_arranque" title="Creador de discos de arranque">programa creador</a> de USB está disponible para instalar un Ubuntu (no LMDE) Live Linux Mint en una unidad USB (<a href="/wiki/Live_USB" title="Live USB">Live USB</a>).
+</p><p>El Asistente de Migración para Microsoft Windows se puede utilizar para importar los marcadores, fondo de escritorio (papel tapiz), así como diversos ajustes de una instalación existente de Windows en una nueva instalación de Linux Mint.
+</p><p>El instalador de Windows "Mint4Win" permite que Linux Mint se instale desde dentro de Microsoft Windows, al igual que el instalador <a href="/wiki/Wubi_(Ubuntu)" title="Wubi (Ubuntu)">Wubi</a> de Ubuntu. El sistema operativo se puede retirar, al igual que con otros programas de Windows, utilizando el <a href="/wiki/Panel_de_control_de_Windows" class="mw-redirect" title="Panel de control de Windows">Panel de control de Windows</a>. Este método no requiere la <a href="/wiki/Partici%C3%B3n_de_disco" title="Partición de disco">partición del disco duro</a>. Solo es útil para los usuarios de Windows, y no es para instalaciones permanentes, ya que incurre en una ligera pérdida de rendimiento. Este instalador se incluyó en el DVD Live hasta Linux Mint 16, pero se retiró en la versión 16 "Petra" Linux Mint, porque el tamaño de las imágenes de DVD Live habría superado lo que el software puede manejar de forma fiable.
+</p><p>La instalación soporta un <a href="/wiki/Gestor_de_vol%C3%BAmenes_l%C3%B3gicos" title="Gestor de volúmenes lógicos">gestor de volúmenes lógicos</a> (Logical Volume Manager-LVM) con solo el particionamiento automático, y el cifrado de disco desde Linux Mint 15.
+</p><p><a href="/wiki/UTF-8" title="UTF-8">UTF-8</a>, el valor por defecto para la codificación de caracteres, soporta diversas grafías no latinas.
+</p>
+<h3><span id="Actualizaci.C3.B3n"></span><span class="mw-headline" id="Actualización">Actualización</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Linux_Mint&amp;action=edit&amp;section=4" title="Editar sección: Actualización">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Las actualizaciones de los paquetes se lanzan con frecuencia. Linux Mint comprueba por defecto las actualizaciones y ofrece el instalarlas.
+</p><p>Cuando se emite una nueva versión completa de Linux Mint, el usuario tiene varias opciones:
+</p>
+<ul><li>No hacer nada. Se sugiere que un sistema que trabaja de forma satisfactoria no necesita ser actualizado.</li>
+<li>Hacer copia de seguridad de datos y programas instalados utilizando mintBackup, sobrescribir la instalación existente con la última versión del sistema operativo y, en su caso, restaurar las copias de seguridad. La personalización debe ser hecha de nuevo, y se debe reinstalar cualquier software que no sea de los repositorios (por ejemplo, la configuración en /etc y software en /opt y /usr/local). Esto se dice que es seguro, rápido, fiable y fácil. El sistema resultante puede diferir en apariencia o comportamiento del anterior. Si hay nueva incompatibilidad de hardware u otros problemas, la versión anterior se puede reinstalar.</li>
+<li>Dirigirse al <a href="/wiki/Gestor_de_paquetes" class="mw-redirect" title="Gestor de paquetes">gestor de paquetes</a> <a href="/wiki/Synaptic" title="Synaptic">Synaptic</a> (<a href="/wiki/Front-end" class="mw-redirect" title="Front-end">front-end</a> de <a href="/wiki/Advanced_Packaging_Tool" title="Advanced Packaging Tool">APT</a>) en los repositorios de la versión más reciente y realizar una actualización completa. En comparación con una copia de seguridad completa y una re-instalación esto es lento, menos fiable (dependiendo de los cambios del estado original que se han hecho al sistema instalado), y puede traer conflictos de paquetes y dependencias complejas que deben ser resueltos. El proceso es automático; el resultado final es un sistema que se ve y se comporta como lo hacía antes. Si bien la copia de seguridad no se <i>requiere</i> como parte del procedimiento, la actualización sin realizar copias de seguridad puede causar la pérdida de datos en caso de problemas.</li>
+<li>Instalar la última versión del DVD en el mismo directorio que la existente, con algunos ajustes menores. Ajustes y software estándar serán preservados; cualquier <a href="/wiki/PPA_de_Launchpad" class="mw-redirect" title="PPA de Launchpad">PPA</a> instalado (Ubuntu Archivo de Paquete Personal - Personal Package Archive) u otro software de repositorio especial tendrán que ser reinstalados.</li></ul>
+<h2><span class="mw-headline" id="Lanzamientos">Lanzamientos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Linux_Mint&amp;action=edit&amp;section=5" title="Editar sección: Lanzamientos">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<b><div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Anexo:Lanzamientos_de_Linux_Mint" title="Anexo:Lanzamientos de Linux Mint"> Anexo:Lanzamientos de Linux Mint</a></i></div></b>
+<div class="thumb tright"><div class="thumbinner" style="width:402px;"><a href="/wiki/Archivo:Linux-Mint-8-LXDE_terminals_info.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Linux-Mint-8-LXDE_terminals_info.png/400px-Linux-Mint-8-LXDE_terminals_info.png" decoding="async" width="400" height="250" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Linux-Mint-8-LXDE_terminals_info.png/600px-Linux-Mint-8-LXDE_terminals_info.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Linux-Mint-8-LXDE_terminals_info.png/800px-Linux-Mint-8-LXDE_terminals_info.png 2x" data-file-width="1280" data-file-height="800" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Linux-Mint-8-LXDE_terminals_info.png" class="internal" title="Aumentar"></a></div>Linux Mint 8 "Helena", versión <a href="/wiki/LXDE" title="LXDE">LXDE</a> mostrando 3 <a href="/wiki/L%C3%ADnea_de_comandos" class="mw-redirect" title="Línea de comandos">terminales</a> e información básica del sistema</div></div></div>
+<p>Este sistema operativo no sigue un ciclo predecible de lanzamientos sino que los plantea uno tras del otro. En cada caso, el proyecto define primero los objetivos del próximo lanzamiento. Cuando se alcanzan todos los objetivos, usualmente, se procede al lanzamiento de una <i><a href="/wiki/Fases_del_desarrollo_de_software#Beta" class="mw-redirect" title="Fases del desarrollo de software">beta</a></i>, luego pasa por el lanzamiento de una <i><a href="/wiki/Fases_del_desarrollo_de_software#Versión_candidata_a_definitiva_.28RC.29" class="mw-redirect" title="Fases del desarrollo de software">Release Candidate (RC)</a></i> y luego si todo va bien, se anuncia la fecha para el lanzamiento de la versión estable.
+</p><p>Luego de un tiempo de haber sido lanzada la versión principal, son lanzadas las <a href="/wiki/Linux_Mint#Ediciones" title="Linux Mint">versiones alternativas</a>.
+</p>
+<ul><li>Nota: Cada lanzamiento lleva asociado un nombre femenino, el que comienza con la letra que le corresponde al número de versión, por ejemplo Linux Mint 1.0 se llamó 'Ada', la versión 2.0 'Barbara' y así sucesivamente según orden alfabético. La última versión hasta el momento recibe el nombre de 'Ulyana'.</li></ul>
+<h3><span id="Linux_Mint_.28Main.29"></span><span class="mw-headline" id="Linux_Mint_(Main)">Linux Mint (Main)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Linux_Mint&amp;action=edit&amp;section=6" title="Editar sección: Linux Mint (Main)">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr style="background-color:#ececec;">
+<th>Versión
+</th>
+<th>Nombre específico
+</th>
+<th>Edición de lanzamiento
+</th>
+<th>Nombre distribución base
+</th>
+<th>APT base
+</th>
+<th>Fecha de lanzamiento
+</th>
+<th>Soporte hasta
+</th></tr>
+<tr>
+<td style="background-color:#FF0000;">1.0</td>
+<td>Ada</td>
+<td>KDE</td>
+<td>Kubuntu 6.06</td>
+<td>Dapper</td>
+<td>27/08/2006</td>
+<td>-
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">2.0</td>
+<td>Barbara</td>
+<td>Main</td>
+<td>Ubuntu 6.10</td>
+<td>Edgy</td>
+<td>13/11/2006</td>
+<td>04/2008
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">2.1</td>
+<td>Bea</td>
+<td>Main</td>
+<td>Ubuntu 6.10</td>
+<td>Edgy</td>
+<td>20/12/2006</td>
+<td>04/2008
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">2.2</td>
+<td>Bianca</td>
+<td>Main</td>
+<td>Ubuntu 6.10</td>
+<td>Edgy</td>
+<td>20/02/2007</td>
+<td>04/2008
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">3.0</td>
+<td>Cassandra</td>
+<td>Main</td>
+<td>Ubuntu 7.04</td>
+<td>Feisty</td>
+<td>30/05/2007</td>
+<td>10/2008
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">3.1</td>
+<td>Celena</td>
+<td>Main</td>
+<td>Ubuntu 7.04</td>
+<td>Feisty</td>
+<td>24/09/2007</td>
+<td>10/2008
+</td></tr>
+<tr>
+<td style="background-color: #FF0000;">4.0</td>
+<td>Daryna</td>
+<td>Main</td>
+<td>Ubuntu 7.10</td>
+<td>Gutsy</td>
+<td>15/10/2007</td>
+<td>04/2009
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">5</td>
+<td>Elyssa LTS</td>
+<td>GNOME</td>
+<td>Ubuntu 8.04</td>
+<td>Hardy</td>
+<td>06/06/2008</td>
+<td>04/2011
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">6</td>
+<td>Felicia</td>
+<td>GNOME</td>
+<td>Ubuntu 8.10</td>
+<td>Intrepid</td>
+<td>15/12/2008</td>
+<td>04/2010
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">7</td>
+<td>Gloria</td>
+<td>GNOME</td>
+<td>Ubuntu 9.04</td>
+<td>Jaunty</td>
+<td>26/05/2009</td>
+<td>10/2010
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">8</td>
+<td>Helena</td>
+<td>GNOME</td>
+<td>Ubuntu 9.10</td>
+<td>Karmic</td>
+<td>28/11/2009</td>
+<td>04/2011
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">9</td>
+<td>Isadora LTS</td>
+<td>GNOME</td>
+<td>Ubuntu 10.04</td>
+<td>Lucid</td>
+<td>18/05/2010</td>
+<td>04/2013
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">10</td>
+<td>Julia</td>
+<td>GNOME</td>
+<td>Ubuntu 10.10</td>
+<td>Maverick</td>
+<td>12/11/2010</td>
+<td>04/2012
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">11</td>
+<td>Katya</td>
+<td>GNOME</td>
+<td>Ubuntu 11.04</td>
+<td>Natty</td>
+<td>26/05/2011</td>
+<td>10/2012
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">12</td>
+<td>Lisa</td>
+<td>GNOME + MATE</td>
+<td>Ubuntu 11.10</td>
+<td>Oneiric</td>
+<td>26/11/2011</td>
+<td>04/2013
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">13</td>
+<td>Maya LTS</td>
+<td>Cinnamon + MATE</td>
+<td>Ubuntu 12.04</td>
+<td>Precise</td>
+<td>23/05/2012<sup id="cite_ref-5" class="reference separada"><a href="#cite_note-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>&#8203;</td>
+<td>04/2017
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;;">14</td>
+<td>Nadia</td>
+<td>Cinnamon + MATE</td>
+<td>Ubuntu 12.10</td>
+<td>Quantal</td>
+<td>20/11/2012<sup id="cite_ref-6" class="reference separada"><a href="#cite_note-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>&#8203;</td>
+<td>05/2014
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;;">15</td>
+<td>Olivia</td>
+<td>Cinnamon + MATE</td>
+<td>Ubuntu 13.04</td>
+<td>Raring</td>
+<td>29/05/2013<sup id="cite_ref-7" class="reference separada"><a href="#cite_note-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>&#8203;</td>
+<td>01/2014
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">16</td>
+<td>Petra</td>
+<td>Cinnamon + MATE</td>
+<td>Ubuntu 13.10</td>
+<td>Saucy</td>
+<td>30/11/2013</td>
+<td>07/2014
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">17</td>
+<td>Qiana LTS</td>
+<td>Cinnamon + MATE</td>
+<td>Ubuntu 14.04</td>
+<td>Trusty</td>
+<td>31/05/2014<sup id="cite_ref-8" class="reference separada"><a href="#cite_note-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>&#8203;</td>
+<td>04/2019
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">17.1</td>
+<td>Rebecca</td>
+<td>Cinnamon + MATE</td>
+<td>Ubuntu 14.04</td>
+<td>Trusty</td>
+<td>29/11/2014<sup id="cite_ref-9" class="reference separada"><a href="#cite_note-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>&#8203;</td>
+<td>04/2019
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">17.2</td>
+<td>Rafaela</td>
+<td>Cinnamon + MATE</td>
+<td>Ubuntu 14.04</td>
+<td>Trusty</td>
+<td>30/06/2015<sup id="cite_ref-10" class="reference separada"><a href="#cite_note-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>&#8203;</td>
+<td>04/2019
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">17.3</td>
+<td>Rosa</td>
+<td>Cinnamon + MATE</td>
+<td>Ubuntu 14.04</td>
+<td>Trusty</td>
+<td>04/12/2015<sup id="cite_ref-11" class="reference separada"><a href="#cite_note-11"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup>&#8203;</td>
+<td>04/2019
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">18</td>
+<td>Sarah LTS</td>
+<td>Cinnamon + MATE + XFCE</td>
+<td>Ubuntu 16.04</td>
+<td>Xenial</td>
+<td>30/06/2016<sup id="cite_ref-12" class="reference separada"><a href="#cite_note-12"><span class="corchete-llamada">[</span>12<span class="corchete-llamada">]</span></a></sup>&#8203;</td>
+<td>04/2021
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">18.1</td>
+<td>Serena LTS</td>
+<td>Cinnamon + MATE + XFCE</td>
+<td>Ubuntu 16.04</td>
+<td>Xenial</td>
+<td>16/12/2016<sup id="cite_ref-13" class="reference separada"><a href="#cite_note-13"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup>&#8203;</td>
+<td>04/2021
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">18.2</td>
+<td>Sonya LTS</td>
+<td>Cinnamon + MATE + XFCE</td>
+<td>Ubuntu 16.04</td>
+<td>Xenial</td>
+<td>02/04/2017<sup id="cite_ref-14" class="reference separada"><a href="#cite_note-14"><span class="corchete-llamada">[</span>14<span class="corchete-llamada">]</span></a></sup>&#8203;</td>
+<td>04/2021
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">18.3</td>
+<td>Sylvia LTS</td>
+<td>Cinnamon + MATE + XFCE</td>
+<td>Ubuntu 16.04</td>
+<td>Xenial</td>
+<td>27/11/2017<sup id="cite_ref-15" class="reference separada"><a href="#cite_note-15"><span class="corchete-llamada">[</span>15<span class="corchete-llamada">]</span></a></sup>&#8203;</td>
+<td>04/2021
+</td></tr>
+<tr>
+<td style="background-color:#9ACD32;">19</td>
+<td>Tara LTS</td>
+<td>Cinnamon + MATE + XFCE</td>
+<td>Ubuntu 18.04</td>
+<td>Bionic beaver</td>
+<td>29/06/2018<sup id="cite_ref-16" class="reference separada"><a href="#cite_note-16"><span class="corchete-llamada">[</span>16<span class="corchete-llamada">]</span></a></sup>&#8203;</td>
+<td>2023
+</td></tr>
+<tr>
+<td style="background-color:#9ACD32;">19.1</td>
+<td>Tessa LTS</td>
+<td>Cinnamon + MATE + XFCE</td>
+<td>Ubuntu 18.04</td>
+<td>Bionic beaver</td>
+<td>19/12/2018<sup id="cite_ref-17" class="reference separada"><a href="#cite_note-17"><span class="corchete-llamada">[</span>17<span class="corchete-llamada">]</span></a></sup>&#8203;</td>
+<td>2023
+</td></tr>
+<tr>
+<td style="background-color:#9ACD32;">19.2</td>
+<td>Tina LTS</td>
+<td>Cinnamon + MATE + XFCE</td>
+<td>Ubuntu 18.04</td>
+<td>Bionic beaver</td>
+<td>02/08/2019<sup id="cite_ref-18" class="reference separada"><a href="#cite_note-18"><span class="corchete-llamada">[</span>18<span class="corchete-llamada">]</span></a></sup>&#8203;</td>
+<td>2023
+</td></tr>
+<tr>
+<td style="background-color:#9ACD32;">19.3</td>
+<td>Tricia LTS</td>
+<td>Cinnamon + MATE + XFCE</td>
+<td>Ubuntu 18.04</td>
+<td>Bionic beaver</td>
+<td>18/12/2019<sup id="cite_ref-19" class="reference separada"><a href="#cite_note-19"><span class="corchete-llamada">[</span>19<span class="corchete-llamada">]</span></a></sup>&#8203;</td>
+<td>2023
+</td></tr>
+<tr>
+<td style="background-color:#9ACD32;">20</td>
+<td>Ulyana LTS</td>
+<td>Cinnamon + MATE + XFCE</td>
+<td>Ubuntu 20.04</td>
+<td>Focal Fossa
+</td>
+<td>27/06/2020<sup id="cite_ref-20" class="reference separada"><a href="#cite_note-20"><span class="corchete-llamada">[</span>20<span class="corchete-llamada">]</span></a></sup>&#8203;
+</td>
+<td>2025
+</td></tr>
+<tr>
+<td style="background-color:#9ACD32;">20.1</td>
+<td>Ulyssa LTS</td>
+<td>Cinnamon + MATE + XFCE</td>
+<td>Ubuntu 20.04</td>
+<td>Focal Fossa
+</td>
+<td>8/01/2021<sup id="cite_ref-21" class="reference separada"><a href="#cite_note-21"><span class="corchete-llamada">[</span>21<span class="corchete-llamada">]</span></a></sup>&#8203;
+</td>
+<td>2025
+</td></tr>
+<tr>
+<td style="background-color:#9ACD32;">20.2</td>
+<td>Uma LTS</td>
+<td>Cinnamon + MATE + XFCE</td>
+<td>Ubuntu 20.04</td>
+<td>Focal Fossa
+</td>
+<td>8/07/2021<sup id="cite_ref-22" class="reference separada"><a href="#cite_note-22"><span class="corchete-llamada">[</span>22<span class="corchete-llamada">]</span></a></sup>&#8203;
+</td>
+<td>2025
+</td></tr>
+<tr>
+<td style="background-color:#ADFF2F;">20.3</td>
+<td>Una LTS</td>
+<td>Cinnamon + MATE + XFCE</td>
+<td>Ubuntu 20.04</td>
+<td>Focal Fossa
+</td>
+<td>7/01/2022
+</td>
+<td>2025
+</td></tr></tbody></table>
+<h3><span id="Linux_Mint_Debian_Edition_.28LMDE.29.5B23.5D.E2.80.8B"></span><span class="mw-headline" id="Linux_Mint_Debian_Edition_(LMDE)[23]​">Linux Mint Debian Edition (LMDE)<sup id="cite_ref-23" class="reference separada"><a href="#cite_note-23"><span class="corchete-llamada">[</span>23<span class="corchete-llamada">]</span></a></sup>&#8203;</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Linux_Mint&amp;action=edit&amp;section=7" title="Editar sección: Linux Mint Debian Edition (LMDE)[23]​">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr style="background-color:#ececec;">
+<th>Versión
+</th>
+<th>Nombre específico versión
+</th>
+<th>Edición
+</th>
+<th>Nombre distribución base
+</th>
+<th>APT base
+</th>
+<th>Fecha de lanzamiento
+</th></tr>
+<tr>
+<td style="background-color:#FF0000;">201012</td>
+<td>LMDE</td>
+<td>GNOME</td>
+<td>Debian</td>
+<td>Testing</td>
+<td>12/2010<sup id="cite_ref-linuxmint_1_24-0" class="reference separada"><a href="#cite_note-linuxmint_1-24"><span class="corchete-llamada">[</span>24<span class="corchete-llamada">]</span></a></sup>&#8203;
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">201101</td>
+<td>LMDE GNOME</td>
+<td>GNOME</td>
+<td>Debian</td>
+<td>Testing</td>
+<td>01/2011<sup id="cite_ref-linuxmint_1_24-1" class="reference separada"><a href="#cite_note-linuxmint_1-24"><span class="corchete-llamada">[</span>24<span class="corchete-llamada">]</span></a></sup>&#8203;
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">201104 RC</td>
+<td>LMDE XFCE</td>
+<td>XFCE</td>
+<td>Debian</td>
+<td>Testing</td>
+<td>03/2011
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">201104</td>
+<td>LMDE XFCE</td>
+<td>XFCE</td>
+<td>Debian</td>
+<td>Testing</td>
+<td>06/04/2011
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">201108 RC</td>
+<td>LMDE GNOME</td>
+<td>GNOME</td>
+<td>Debian</td>
+<td>Testing</td>
+<td>18/08/2011
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">201109</td>
+<td>LMDE XFCE</td>
+<td>XFCE</td>
+<td>Debian</td>
+<td>Testing</td>
+<td>16/09/2011<sup id="cite_ref-25" class="reference separada"><a href="#cite_note-25"><span class="corchete-llamada">[</span>25<span class="corchete-llamada">]</span></a></sup>&#8203;
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">201204 RC</td>
+<td>LMDE</td>
+<td>MATE/Cinnamon o XFCE</td>
+<td>Debian</td>
+<td>Testing</td>
+<td>11/04/2012
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">2012-04</td>
+<td>LMDE</td>
+<td>MATE/Cinnamon o XFCE</td>
+<td>Debian</td>
+<td>Testing</td>
+<td>24/04/2012
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">2013-03</td>
+<td>LMDE</td>
+<td>MATE/Cinnamon</td>
+<td>Debian</td>
+<td>Testing</td>
+<td>22/03/2013<sup id="cite_ref-26" class="reference separada"><a href="#cite_note-26"><span class="corchete-llamada">[</span>26<span class="corchete-llamada">]</span></a></sup>&#8203;
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">2014-03</td>
+<td>LMDE</td>
+<td>MATE/Cinnamon</td>
+<td>Debian</td>
+<td>Testing</td>
+<td>02/03/2014<sup id="cite_ref-27" class="reference separada"><a href="#cite_note-27"><span class="corchete-llamada">[</span>27<span class="corchete-llamada">]</span></a></sup>&#8203;
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">2015-03</td>
+<td>LMDE 2 "Betsy"</td>
+<td>MATE/Cinnamon</td>
+<td>Debian</td>
+<td>Stable</td>
+<td>10/04/2015<sup id="cite_ref-28" class="reference separada"><a href="#cite_note-28"><span class="corchete-llamada">[</span>28<span class="corchete-llamada">]</span></a></sup>&#8203;
+</td></tr>
+<tr>
+<td style="background-color:#FF0000;">2015-03</td>
+<td>LMDE 3 "Cindy"</td>
+<td>Cinnamon</td>
+<td>Debian</td>
+<td>Stable</td>
+<td>10/04/2015<sup id="cite_ref-29" class="reference separada"><a href="#cite_note-29"><span class="corchete-llamada">[</span>29<span class="corchete-llamada">]</span></a></sup>&#8203;
+</td></tr>
+<tr>
+<td style="background-color:#32CD32;">2020-03</td>
+<td>LMDE 4 "Debbie"</td>
+<td>Cinnamon</td>
+<td>Debian</td>
+<td>Stable</td>
+<td>20/03/2020<sup id="cite_ref-30" class="reference separada"><a href="#cite_note-30"><span class="corchete-llamada">[</span>30<span class="corchete-llamada">]</span></a></sup>&#8203;
+</td></tr>
+<tr>
+<td style="background-color:#ADFF2F;">2022-03</td>
+<td>LMDE 5 "Elsie"<sup id="cite_ref-31" class="reference separada"><a href="#cite_note-31"><span class="corchete-llamada">[</span>31<span class="corchete-llamada">]</span></a></sup>&#8203;</td>
+<td>Cinnamon</td>
+<td>Debian</td>
+<td>Stable</td>
+<td>
+</td></tr></tbody></table>
+<table class="wikitable">
+<tbody><tr>
+<th colspan="7">Leyenda:
+</th></tr>
+<tr>
+<td style="background-color:#FF0000; width:10%;"></td>
+<td>Sin soporte
+</td></tr>
+<tr>
+<td style="background-color:#7FFFD4; width:10%;"></td>
+<td>Alpha
+</td></tr>
+<tr>
+<td style="background-color:#66CDAA; width:10%;"></td>
+<td>Beta
+</td></tr>
+<tr>
+<td style="background-color:#9ACD32; width:10%;"></td>
+<td>Estable (sin actualizaciones desde <i>Romeo</i>)
+</td></tr>
+<tr>
+<td style="background-color:#32CD32; width:10%;"></td>
+<td>Estable (con actualizaciones desde <i>Romeo</i>)
+</td></tr>
+<tr>
+<td style="background-color:#ADFF2F; width:10%;"></td>
+<td>Próxima entrega
+</td></tr>
+<tr>
+<td style="background-color:#FFFF00; width:10%;"></td>
+<td>Cancelada
+</td></tr></tbody></table>
+<ul><li>Nota: Desde <i>Elyssa</i>, los números menores de versión se habían suprimido (es decir, "Linux Mint 5.0" era "Linux Mint 5"). Esto se debía a la decisión de seguir el ciclo de lanzamiento de 6 meses de Ubuntu: no debería haber más de un lanzamiento de Linux Mint por cada base de Ubuntu. A partir de la versión 17, retornan los números menores de versión con la versión 17.1  <i>Rebecca</i> (basada en Ubuntu 14.04 LTS para mantener la estabilidad del sistema), siendo irrelevante ya el calendario de lanzamientos de Ubuntu para este sistema.</li></ul>
+<h2><span class="mw-headline" id="Ediciones">Ediciones</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Linux_Mint&amp;action=edit&amp;section=8" title="Editar sección: Ediciones">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Todas las ediciones de Linux Mint están disponibles para <a href="/wiki/32_bits" title="32 bits">32 bits</a> y <a href="/wiki/64_bits" title="64 bits">64 bits</a> (exceptuando versiones desde Linux Mint 20, que solo están disponibles para sistemas de 64 bits).
+</p><p>A partir de Linux Mint 9 "Isadora", la distribución lanzada en versiones <a href="/wiki/Live_CD" title="Live CD">Live CD</a>, Live DVD, y <a href="/wiki/OEM" class="mw-redirect" title="OEM">OEM</a>.
+</p><p>El 7 de septiembre de 2010, se anunció la Linux Mint Debian Edition (LMDE). El objetivo de esta edición es estar tan cerca de la edición principal (<a href="/wiki/GNOME" title="GNOME">GNOME</a>) como sea posible, pero basada en <a href="/wiki/Debian" class="mw-redirect" title="Debian">Debian</a> (a diferencia de Ubuntu). Otra diferencia notable es el ciclo de imitación de <i><a href="/wiki/Rolling_release" class="mw-redirect" title="Rolling release">rolling release</a></i> (versión de liberación continua), de desarrollo de la distribución, con intento de parecerse a <a href="/wiki/Arch_linux" class="mw-redirect" title="Arch linux">Arch linux</a>, que es estrictamente <i>rolling release</i>, con lo cual una vez instalado el sistema no se debe realizar ninguna actualización o cambio de versión. El 6 de abril de 2011, se lanzó la versión de <a href="/wiki/Xfce" title="Xfce">Xfce</a> Mint Debian.
+</p><p>Antiguamente las ediciones KDE, XFCE, <a href="/wiki/LXDE" title="LXDE">LXDE</a> y <a href="/wiki/Fluxbox" title="Fluxbox">Fluxbox</a> eran llamadas ediciones comunitarias, pero esto cambió en 2010 luego del lanzamiento de la primera edición Oficial de Linux Mint KDE. Ahora todas las versiones son consideradas "oficiales".
+</p>
+<table class="wikitable">
+
+<tbody><tr style="background-color:#ececec;">
+<th>Edición
+</th>
+<th>Características
+</th></tr>
+<tr>
+<td><center>Edición Cinnamon (principal)</center>
+</td>
+<td>La Edición principal de Linux Mint proporciona el <a href="/wiki/Entorno_de_escritorio" title="Entorno de escritorio">entorno de escritorio</a> propio <a href="/wiki/Cinnamon" title="Cinnamon">Cinnamon</a> (basado en <a href="/wiki/GNOME" title="GNOME">GNOME</a>) y codecs multimedia, todo estos contenidos en un solo <a href="/wiki/CD" class="mw-redirect" title="CD">CD</a>. Está diseñada para satisfacer a todos, usuarios <i>individuales</i> (principiantes) y profesionales.
+</td></tr>
+<tr>
+<td><center>Edición principal extendida</center>
+</td>
+<td>Similar a la edición principal, pero a diferencia de esta, incluye software como <a href="/wiki/JAVA" class="mw-redirect" title="JAVA">JAVA</a>, <a href="/wiki/VLC_Media_Player" class="mw-redirect" title="VLC Media Player">VLC Media Player</a>, entre otros, todos en un solo <a href="/wiki/DVD" title="DVD">DVD</a>. Está dirigida a usuarios que requieran de una experiencia más completa que la ofrecida por la edición principal.
+</td></tr>
+<tr>
+<td><center>Edición ligera (Light)</center>
+</td>
+<td>Algunos de los <a href="/wiki/Codec" class="mw-redirect" title="Codec"><i>codecs</i></a> en la edición principal no pueden ser libremente redistribuidos en algunas partes del mundo. Por esta razón, tienen acceso a la <i>edición ligera (Light)</i>. La edición Light es una copia de la edición principal sin los <a href="/wiki/Software_propietario" title="Software propietario">componentes restrictivos</a>.
+</td></tr>
+<tr>
+<td><center>Edición OEM</center>
+</td>
+<td>Edición que incluye lo mismo que la edición principal, pero enfocada en distribuidores <a href="/wiki/OEM" class="mw-redirect" title="OEM">OEM</a>, lo que permite poder instalar el sistema en una <a href="/wiki/Computadora" title="Computadora">computadora</a> pero sin configurar un usuario para la misma, lo que permite a vendedores de <a href="/wiki/Computadora" title="Computadora">computadoras</a> incluir Linux Mint en esta.
+</td></tr>
+<tr>
+<td><center>Edición KDE</center>
+</td>
+<td>En esta edición, el <a href="/wiki/Entorno_de_escritorio" title="Entorno de escritorio">entorno de escritorio</a> <a href="/wiki/GNOME" title="GNOME">GNOME</a> es reemplazado con <a href="/wiki/KDE" title="KDE">KDE</a>. La selección por defecto de las aplicaciones es diferente y esta edición usualmente viene con más software. La edición KDE es distribuida en forma de <a href="/wiki/Live_CD" title="Live CD">Live DVD</a>. Linux Mint 4.0 KDE E.C. por primera vez incluye las <a href="/wiki/Linux_Mint#MintSoftware" title="Linux Mint">herramientas creadas por el equipo de desarrolladores</a>, Así como las versiones "mentoladas" de <a href="/wiki/Firefox" class="mw-redirect" title="Firefox">Firefox</a> y <a href="/wiki/Sunbird" class="mw-redirect" title="Sunbird">Sunbird</a>.
+</td></tr>
+<tr>
+<td><center>Edición XFCE</center>
+</td>
+<td>Linux Mint tiene disponible una edición con el <a href="/wiki/Entorno_de_escritorio" title="Entorno de escritorio">entorno de escritorio</a> <a href="/wiki/XFCE" class="mw-redirect" title="XFCE">XFCE</a>. El <a href="/wiki/Entorno_de_escritorio" title="Entorno de escritorio">entorno de escritorio</a> <a href="/wiki/GNOME" title="GNOME">GNOME</a> es reemplazado con <a href="/wiki/XFCE" class="mw-redirect" title="XFCE">XFCE</a>. La selección por defecto de las aplicaciones es diferente y esta edición usualmente viene con software elegido por su mantenedor. La edición XFCE viene en un <a href="/wiki/Disco_compacto" title="Disco compacto">CD</a> descargable y está diseñada para <a href="/wiki/Computadora" title="Computadora">computadoras</a> con pocos recursos.
+</td></tr>
+<tr>
+<td><center>Edición LXDE</center>
+</td>
+<td>También tiene disponible una edición con el <a href="/wiki/Entorno_de_escritorio" title="Entorno de escritorio">entorno de escritorio</a> <a href="/wiki/LXDE" title="LXDE">LXDE</a>. El <a href="/wiki/Entorno_de_escritorio" title="Entorno de escritorio">entorno de escritorio</a> <a href="/wiki/GNOME" title="GNOME">GNOME</a> es reemplazado con LXDE. La selección por defecto de las aplicaciones es diferente y esta edición usualmente viene con software elegido por su mantenedor. La Edición LXDE viene en un <a href="/wiki/Live_CD" title="Live CD">Live CD</a> descargable y está diseñada para <a href="/wiki/Computadora" title="Computadora">computadoras</a> con pocos recursos.
+</td></tr>
+<tr>
+<td><center>Edición Fluxbox</center>
+</td>
+<td>El <a href="/wiki/Entorno_de_escritorio" title="Entorno de escritorio">entorno de escritorio</a> <a href="/wiki/GNOME" title="GNOME">GNOME</a> es reemplazado con <a href="/wiki/Fluxbox" title="Fluxbox">Fluxbox</a>. La selección por defecto de las aplicaciones es diferente y esta edición usualmente viene con software elegido por su mantenedor. La edición Fluxbox viene en un <a href="/wiki/Disco_compacto" title="Disco compacto">CD</a> Live descargable y está diseñada para <a href="/wiki/Computadora" title="Computadora">computadoras</a> con escasos recursos, por lo que es considerada una edición estable, ligera y simple.
+</td></tr></tbody></table>
+<table class="wikitable" style="font-size: 90%; text-align: center; width: auto;">
+<caption><a href="/wiki/Entorno_de_escritorio" title="Entorno de escritorio">Entorno de escritorio</a> por defecto de Linux Mint 17, 18, 19 ,LMDE 2 y LMDE 3
+</caption>
+<tbody><tr>
+<th rowspan="2">
+</th>
+<th colspan="2"><a href="/wiki/Cinnamon" title="Cinnamon">Cinnamon</a>
+</th>
+<th colspan="2"><a href="/wiki/MATE" title="MATE">MATE</a>
+</th>
+<th colspan="2"><a href="/wiki/KDE" title="KDE">KDE</a>
+</th>
+<th colspan="2"><a href="/wiki/Xfce" title="Xfce">Xfce</a>
+</th></tr>
+<tr>
+<th>32-bit
+</th>
+<th>64-bit
+</th>
+<th>32-bit
+</th>
+<th>64-bit
+</th>
+<th>32-bit
+</th>
+<th>64-bit
+</th>
+<th>32-bit
+</th>
+<th>64-bit
+</th></tr>
+<tr>
+<th>Linux Mint 17 (Qiana)<sup id="cite_ref-qiana_32-0" class="reference separada"><a href="#cite_note-qiana-32"><span class="corchete-llamada">[</span>32<span class="corchete-llamada">]</span></a></sup>&#8203;
+</th>
+<td colspan="2"><img alt="Sí" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" title="Sí" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" />&#160;<span style="font-weight: bold;"><span lang="es">Sí</span></span>
+</td>
+<td colspan="2"><img alt="Sí" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" title="Sí" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" />&#160;<span style="font-weight: bold;"><span lang="es">Sí</span></span>
+</td>
+<td colspan="2"><img alt="Sí" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" title="Sí" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" />&#160;<span style="font-weight: bold;"><span lang="es">Sí</span></span>
+</td>
+<td colspan="2"><img alt="Sí" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" title="Sí" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" />&#160;<span style="font-weight: bold;"><span lang="es">Sí</span></span>
+</td></tr>
+<tr>
+<th>No Codecs edition (Qiana)<sup id="cite_ref-qiana_32-1" class="reference separada"><a href="#cite_note-qiana-32"><span class="corchete-llamada">[</span>32<span class="corchete-llamada">]</span></a></sup>&#8203;
+</th>
+<td colspan="2"><img alt="Sí" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" title="Sí" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" />&#160;<span style="font-weight: bold;"><span lang="es">Sí</span></span>
+</td>
+<td colspan="2"><img alt="Sí" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" title="Sí" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" />&#160;<span style="font-weight: bold;"><span lang="es">Sí</span></span>
+</td>
+<td colspan="2"><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/15px-X_mark.svg.png" decoding="async" title="No" width="15" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/23px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/30px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" />&#160;<span style="font-weight: bold;">No</span>
+</td>
+<td colspan="2"><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/15px-X_mark.svg.png" decoding="async" title="No" width="15" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/23px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/30px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" />&#160;<span style="font-weight: bold;">No</span>
+</td></tr>
+<tr>
+<th>OEM edition (Qiana)<sup id="cite_ref-qiana_32-2" class="reference separada"><a href="#cite_note-qiana-32"><span class="corchete-llamada">[</span>32<span class="corchete-llamada">]</span></a></sup>&#8203;
+</th>
+<td><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/15px-X_mark.svg.png" decoding="async" title="No" width="15" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/23px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/30px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" />&#160;<span style="font-weight: bold;">No</span>
+</td>
+<td><img alt="Sí" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" title="Sí" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" />&#160;<span style="font-weight: bold;"><span lang="es">Sí</span></span>
+</td>
+<td><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/15px-X_mark.svg.png" decoding="async" title="No" width="15" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/23px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/30px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" />&#160;<span style="font-weight: bold;">No</span>
+</td>
+<td><img alt="Sí" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" title="Sí" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" />&#160;<span style="font-weight: bold;"><span lang="es">Sí</span></span>
+</td>
+<td colspan="2"><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/15px-X_mark.svg.png" decoding="async" title="No" width="15" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/23px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/30px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" />&#160;<span style="font-weight: bold;">No</span>
+</td>
+<td colspan="2"><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/15px-X_mark.svg.png" decoding="async" title="No" width="15" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/23px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/30px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" />&#160;<span style="font-weight: bold;">No</span>
+</td></tr>
+<tr>
+<th>Linux Mint 18 (Sarah)<sup id="cite_ref-sarah_33-0" class="reference separada"><a href="#cite_note-sarah-33"><span class="corchete-llamada">[</span>33<span class="corchete-llamada">]</span></a></sup>&#8203;
+</th>
+<td colspan="2"><img alt="Sí" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" title="Sí" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" />&#160;<span style="font-weight: bold;"><span lang="es">Sí</span></span>
+</td>
+<td colspan="2"><img alt="Sí" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" title="Sí" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" />&#160;<span style="font-weight: bold;"><span lang="es">Sí</span></span>
+</td>
+<td colspan="2"><img alt="Sí" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" title="Sí" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" />&#160;<span style="font-weight: bold;"><span lang="es">Sí</span></span>
+</td>
+<td colspan="2"><img alt="Sí" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" title="Sí" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" />&#160;<span style="font-weight: bold;"><span lang="es">Sí</span></span>
+</td></tr>
+<tr>
+<th>Linux Mint 19 (Tara)<sup id="cite_ref-tara_34-0" class="reference separada"><a href="#cite_note-tara-34"><span class="corchete-llamada">[</span>34<span class="corchete-llamada">]</span></a></sup>&#8203;
+</th>
+<td colspan="2"><img alt="Sí" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" title="Sí" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" />&#160;<span style="font-weight: bold;"><span lang="es">Sí</span></span>
+</td>
+<td colspan="2"><img alt="Sí" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" title="Sí" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" />&#160;<span style="font-weight: bold;"><span lang="es">Sí</span></span>
+</td>
+<td colspan="2"><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/15px-X_mark.svg.png" decoding="async" title="No" width="15" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/23px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/30px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" />&#160;<span style="font-weight: bold;">No</span>
+</td>
+<td colspan="2"><img alt="Sí" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" title="Sí" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" />&#160;<span style="font-weight: bold;"><span lang="es">Sí</span></span>
+</td></tr>
+<tr>
+<th>Linux Mint 20 (Ulyana)<sup id="cite_ref-ulyana_35-0" class="reference separada"><a href="#cite_note-ulyana-35"><span class="corchete-llamada">[</span>35<span class="corchete-llamada">]</span></a></sup>&#8203;
+</th>
+<td><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/15px-X_mark.svg.png" decoding="async" title="No" width="15" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/23px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/30px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" />&#160;<span style="font-weight: bold;">No</span>
+</td>
+<td><img alt="Sí" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" title="Sí" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" />&#160;<span style="font-weight: bold;"><span lang="es">Sí</span></span>
+</td>
+<td><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/15px-X_mark.svg.png" decoding="async" title="No" width="15" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/23px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/30px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" />&#160;<span style="font-weight: bold;">No</span>
+</td>
+<td><img alt="Sí" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" title="Sí" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" />&#160;<span style="font-weight: bold;"><span lang="es">Sí</span></span>
+</td>
+<td colspan="2"><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/15px-X_mark.svg.png" decoding="async" title="No" width="15" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/23px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/30px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" />&#160;<span style="font-weight: bold;">No</span>
+</td>
+<td colspan="2"><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/15px-X_mark.svg.png" decoding="async" title="No" width="15" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/23px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/30px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" />&#160;<span style="font-weight: bold;">No</span>
+</td></tr>
+<tr>
+<th>Linux Mint Debian Edition (LMDE 2)
+</th>
+<td colspan="2"><img alt="Sí" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" title="Sí" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" />&#160;<span style="font-weight: bold;"><span lang="es">Sí</span></span>
+</td>
+<td colspan="2"><img alt="Sí" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" title="Sí" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" />&#160;<span style="font-weight: bold;"><span lang="es">Sí</span></span>
+</td>
+<td colspan="2"><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/15px-X_mark.svg.png" decoding="async" title="No" width="15" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/23px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/30px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" />&#160;<span style="font-weight: bold;">No</span>
+</td>
+<td colspan="2"><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/15px-X_mark.svg.png" decoding="async" title="No" width="15" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/23px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/30px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" />&#160;<span style="font-weight: bold;">No</span>
+</td></tr>
+<tr>
+<th>Linux Mint Debian Edition (LMDE 3)<sup id="cite_ref-36" class="reference separada"><a href="#cite_note-36"><span class="corchete-llamada">[</span>36<span class="corchete-llamada">]</span></a></sup>&#8203;
+</th>
+<td colspan="2"><img alt="Sí" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" title="Sí" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" />&#160;<span style="font-weight: bold;"><span lang="es">Sí</span></span>
+</td>
+<td colspan="2"><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/15px-X_mark.svg.png" decoding="async" title="No" width="15" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/23px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/30px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" />&#160;<span style="font-weight: bold;">No</span>
+</td>
+<td colspan="2"><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/15px-X_mark.svg.png" decoding="async" title="No" width="15" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/23px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/30px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" />&#160;<span style="font-weight: bold;">No</span>
+</td>
+<td colspan="2"><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/15px-X_mark.svg.png" decoding="async" title="No" width="15" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/23px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/30px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" />&#160;<span style="font-weight: bold;">No</span>
+</td></tr>
+<tr>
+<th>Windows Installer (mint4win)<sup id="cite_ref-rel_maya_37-0" class="reference separada"><a href="#cite_note-rel_maya-37"><span class="corchete-llamada">[</span>37<span class="corchete-llamada">]</span></a></sup>&#8203;
+</th>
+<td><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/15px-X_mark.svg.png" decoding="async" title="No" width="15" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/23px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/30px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" />&#160;<span style="font-weight: bold;">No</span>
+</td>
+<td><img alt="Parcial" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Parcial_mark.svg/15px-Parcial_mark.svg.png" decoding="async" title="Parcial" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Parcial_mark.svg/23px-Parcial_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Parcial_mark.svg/30px-Parcial_mark.svg.png 2x" data-file-width="600" data-file-height="600" />&#160;<span style="font-weight: bold;">o.r.</span>
+</td>
+<td><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/15px-X_mark.svg.png" decoding="async" title="No" width="15" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/23px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/30px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" />&#160;<span style="font-weight: bold;">No</span>
+</td>
+<td><img alt="Parcial" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Parcial_mark.svg/15px-Parcial_mark.svg.png" decoding="async" title="Parcial" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Parcial_mark.svg/23px-Parcial_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Parcial_mark.svg/30px-Parcial_mark.svg.png 2x" data-file-width="600" data-file-height="600" />&#160;<span style="font-weight: bold;">o.r.</span>
+</td>
+<td colspan="2"><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/15px-X_mark.svg.png" decoding="async" title="No" width="15" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/23px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/30px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" />&#160;<span style="font-weight: bold;">No</span>
+</td>
+<td colspan="2"><img alt="No" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/15px-X_mark.svg.png" decoding="async" title="No" width="15" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/23px-X_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/X_mark.svg/30px-X_mark.svg.png 2x" data-file-width="525" data-file-height="600" />&#160;<span style="font-weight: bold;">No</span>
+</td></tr></tbody></table>
+<p><b>nota:</b> <img alt="Parcial" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Parcial_mark.svg/15px-Parcial_mark.svg.png" decoding="async" title="Parcial" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Parcial_mark.svg/23px-Parcial_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Parcial_mark.svg/30px-Parcial_mark.svg.png 2x" data-file-width="600" data-file-height="600" />&#160;<span style="font-weight: bold;">o.r.: Older release</span>
+</p>
+<ul class="gallery mw-gallery-traditional" style="max-width: 815px;">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/wiki/Archivo:Linux_MInt_3.0_XFCE_COmpiz_Fusion.png" class="image" title="Linux Mint 3.0 XFCE Edición comunitaria corriendo XFCE y Compiz Fusion."><img alt="Linux Mint 3.0 XFCE Edición comunitaria corriendo XFCE y Compiz Fusion." src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Linux_MInt_3.0_XFCE_COmpiz_Fusion.png/120px-Linux_MInt_3.0_XFCE_COmpiz_Fusion.png" decoding="async" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Linux_MInt_3.0_XFCE_COmpiz_Fusion.png/180px-Linux_MInt_3.0_XFCE_COmpiz_Fusion.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Linux_MInt_3.0_XFCE_COmpiz_Fusion.png/240px-Linux_MInt_3.0_XFCE_COmpiz_Fusion.png 2x" data-file-width="1024" data-file-height="768" /></a></div></div>
+			<div class="gallerytext">
+<p>Linux Mint 3.0 <i>XFCE</i> Edición comunitaria corriendo <a href="/wiki/XFCE" class="mw-redirect" title="XFCE">XFCE</a> y <a href="/wiki/Compiz_Fusion" class="mw-redirect" title="Compiz Fusion">Compiz Fusion</a>.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:37.5px auto;"><a href="/wiki/Archivo:Linux-Mint_4.0_KDE-menu.png" class="image" title="Menú KDE en Linux Mint 4.0 Daryna"><img alt="Menú KDE en Linux Mint 4.0 Daryna" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Linux-Mint_4.0_KDE-menu.png/120px-Linux-Mint_4.0_KDE-menu.png" decoding="async" width="120" height="75" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Linux-Mint_4.0_KDE-menu.png/180px-Linux-Mint_4.0_KDE-menu.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/Linux-Mint_4.0_KDE-menu.png/240px-Linux-Mint_4.0_KDE-menu.png 2x" data-file-width="1280" data-file-height="800" /></a></div></div>
+			<div class="gallerytext">
+<p>Menú KDE en Linux Mint 4.0 <i>Daryna</i>
+</p>
+			</div>
+		</div></li>
+</ul>
+<h3><span class="mw-headline" id="Ediciones_basadas_en_Ubuntu">Ediciones basadas en Ubuntu</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Linux_Mint&amp;action=edit&amp;section=9" title="Editar sección: Ediciones basadas en Ubuntu">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A partir de Linux Mint 17 hay dos ediciones principales de Linux Mint, desarrollados por el equipo de desarrollo y que utilizan <a href="/wiki/Ubuntu" title="Ubuntu">Ubuntu</a> como base. Una de ellas incluye el propio <a href="/wiki/Cinnamon" title="Cinnamon">Cinnamon</a> como el entorno de escritorio, mientras que la otro utiliza <a href="/wiki/MATE" title="MATE">MATE</a>. Linux Mint también desarrolla una edición con el entorno de escritorio <a href="/wiki/Xfce" title="Xfce">Xfce</a> por defecto, pero este tienen prioridad secundaria y es liberado generalmente algo más tarde que las dos ediciones principales. Hasta la versión 18.3 "Sylvia" existía una edición con escritorio <a href="/wiki/KDE" title="KDE">KDE</a>,<sup id="cite_ref-38" class="reference separada"><a href="#cite_note-38"><span class="corchete-llamada">[</span>38<span class="corchete-llamada">]</span></a></sup>&#8203; pero a partir de la versión 19.0 "Tara" fue discontinuada.<sup id="cite_ref-39" class="reference separada"><a href="#cite_note-39"><span class="corchete-llamada">[</span>39<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p><p>Las versiones anteriores, ahora obsoletas, incluían ediciones que ofrecían los entornos de escritorio <a href="/wiki/GNOME" title="GNOME">GNOME</a>, <a href="/wiki/LXDE" title="LXDE">LXDE</a> y <a href="/wiki/Fluxbox" title="Fluxbox">Fluxbox</a> por defecto.
+</p>
+<h3><span id="Edici.C3.B3n_Edge_de_Cinnamon"></span><span class="mw-headline" id="Edición_Edge_de_Cinnamon">Edición Edge de Cinnamon</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Linux_Mint&amp;action=edit&amp;section=10" title="Editar sección: Edición Edge de Cinnamon">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Además de sus imágenes ISO regulares, Linux Mint a veces proporciona una imagen ISO "edge" para su última versión. Esta imagen viene con componentes más nuevos para poder soportar los conjuntos de chips y dispositivos de hardware más modernos.<sup id="cite_ref-40" class="reference separada"><a href="#cite_note-40"><span class="corchete-llamada">[</span>40<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p>
+<h3><span class="mw-headline" id="OEM">OEM</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Linux_Mint&amp;action=edit&amp;section=11" title="Editar sección: OEM">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>La distribución ofrece una versión <a href="/wiki/OEM" class="mw-redirect" title="OEM">OEM</a> para utilizar por los fabricantes.
+</p>
+<h3><span id="Versi.C3.B3n_sin_c.C3.B3decs"></span><span class="mw-headline" id="Versión_sin_códecs">Versión sin códecs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Linux_Mint&amp;action=edit&amp;section=12" title="Editar sección: Versión sin códecs">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>La distribución ofrece una versión "sin <a href="/wiki/C%C3%B3dec" title="Códec">códecs</a>" para revistas, empresas y distribuidores en los <a href="/wiki/EE._UU." class="mw-redirect" title="EE. UU.">EE. UU.</a>, <a href="/wiki/Jap%C3%B3n" title="Japón">Japón</a> y países donde la legislación permite a las <a href="/wiki/Patentes_de_software" class="mw-redirect" title="Patentes de software">patentes de software</a> y donde la distribución de tecnologías restringidas pueda requerir la adquisición de licencias de tercera parte. Los códecs multimedia pueden instalarse en cualquier momento a través de un enlace en la pantalla de bienvenida de Mint (Mint Welcome Screen) o mediante un lanzador en el escritorio disponible solo para la versión sin códecs.
+</p>
+<h3><span class="mw-headline" id="LMDE">LMDE</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Linux_Mint&amp;action=edit&amp;section=13" title="Editar sección: LMDE">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>LMDE (Linux Mint Debian Edition) corresponde a un proyecto de Linux Mint que utiliza como fuente de software los repositorios de Debian. Su última versión (5.0) fue lanzada el 20 de marzo del 2022<sup id="cite_ref-41" class="reference separada"><a href="#cite_note-41"><span class="corchete-llamada">[</span>41<span class="corchete-llamada">]</span></a></sup>&#8203;. Dentro de sus características destaca:<sup id="cite_ref-42" class="reference separada"><a href="#cite_note-42"><span class="corchete-llamada">[</span>42<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p>
+<ul><li>No es compatible con la versión basada en <a href="/wiki/Ubuntu" title="Ubuntu">Ubuntu</a>,</li>
+<li>Es 100% compatible con <a href="/wiki/Debian" class="mw-redirect" title="Debian">Debian</a></li>
+<li>Recibe constantemente actualizaciones. Sus <a href="/wiki/Imagen_ISO" title="Imagen ISO">imágenes ISO</a> se actualizan de vez en cuando, pero los usuarios no necesitan volver a instalarlo en sus sistemas.</li>
+<li>Ha tenido versiones con <a href="/wiki/Entorno_gr%C3%A1fico" class="mw-redirect" title="Entorno gráfico">entorno gráfico</a> de <a href="/wiki/GNOME" title="GNOME">GNOME</a> 2, <a href="/wiki/MATE" title="MATE">MATE</a>, <a href="/wiki/Cinnamon" title="Cinnamon">Cinnamon</a> y <a href="/wiki/XFCE" class="mw-redirect" title="XFCE">XFCE</a></li>
+<li>No es compatible con los PPAs (Personal Package Archives) de <a href="/wiki/Ubuntu" title="Ubuntu">Ubuntu</a> <sup id="cite_ref-43" class="reference separada"><a href="#cite_note-43"><span class="corchete-llamada">[</span>43<span class="corchete-llamada">]</span></a></sup>&#8203;</li></ul>
+<ul class="gallery mw-gallery-packed" style="text-align:left">
+		<li class="gallerybox" style="width: 269.33333333333px"><div style="width: 269.33333333333px">
+			<div class="thumb" style="width: 267.33333333333px;"><div style="margin:0px auto;"><a href="/wiki/Archivo:LMDE-201303-MATE-Edition.png" class="image" title="Linux Mint Debian Edition (LMDE) 201303, con escritorio MATE."><img alt="Linux Mint Debian Edition (LMDE) 201303, con escritorio MATE." src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/LMDE-201303-MATE-Edition.png/401px-LMDE-201303-MATE-Edition.png" decoding="async" width="268" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/LMDE-201303-MATE-Edition.png/602px-LMDE-201303-MATE-Edition.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/LMDE-201303-MATE-Edition.png/801px-LMDE-201303-MATE-Edition.png 2x" data-file-width="1366" data-file-height="768" /></a></div></div>
+			<div class="gallerytext">
+<p>Linux Mint Debian Edition (LMDE) 201303, con escritorio <a href="/wiki/MATE" title="MATE">MATE</a>.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 269.33333333333px"><div style="width: 269.33333333333px">
+			<div class="thumb" style="width: 267.33333333333px;"><div style="margin:0px auto;"><a href="/wiki/Archivo:Linux-Mint-Debian-Edition_11-RC_LMDE-11RC.png" class="image" title="Linux Mint Debian Edition 11 (LMDE 11)"><img alt="Linux Mint Debian Edition 11 (LMDE 11)" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Linux-Mint-Debian-Edition_11-RC_LMDE-11RC.png/401px-Linux-Mint-Debian-Edition_11-RC_LMDE-11RC.png" decoding="async" width="268" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Linux-Mint-Debian-Edition_11-RC_LMDE-11RC.png/602px-Linux-Mint-Debian-Edition_11-RC_LMDE-11RC.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Linux-Mint-Debian-Edition_11-RC_LMDE-11RC.png/801px-Linux-Mint-Debian-Edition_11-RC_LMDE-11RC.png 2x" data-file-width="1366" data-file-height="768" /></a></div></div>
+			<div class="gallerytext">
+<p>Linux Mint Debian Edition 11 <i>(LMDE 11)</i>
+</p>
+			</div>
+		</div></li>
+</ul>
+<h2><span class="mw-headline" id="Ramas_de_desarrollo">Ramas de desarrollo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Linux_Mint&amp;action=edit&amp;section=14" title="Editar sección: Ramas de desarrollo">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>La rama inestable de Linux Mint es llamada <i>Romeo</i>. No está activada por defecto en los repositorios de la distribución. Los usuarios que deseen utilizar características <i>"más avanzadas"</i> y deseen ayudar a la distribución probando los nuevos paquetes, pueden agregar la rama <i>"Romeo"</i> a sus <a href="/wiki/Sources.list" class="mw-redirect" title="Sources.list">fuentes</a> de <a href="/wiki/Advanced_Packaging_Tool" title="Advanced Packaging Tool">APT</a>. <i>Romeo</i> no es una rama en sí misma y no sustituye a los otros repositorios.
+</p><p>Los nuevos paquetes son lanzados primero en <i>Romeo</i>, donde son probados por los desarrolladores y por quienes usan <i>Romeo</i>. Después que un paquete es definido como suficientemente estable, es portado al último lanzamiento estable.
+</p><p>La idea de <i>Romeo</i> y su proceso de actualización es tomada desde la distribución <a href="/wiki/Debian_GNU/Linux" title="Debian GNU/Linux">Debian</a>, donde los paquetes son primero lanzados a la rama "Inestable" y luego a la rama "de Prueba". Romeo es equivalente de la rama "Inestable" en Linux Mint (aunque requiere un lanzamiento estable para ser soportada y no puede funcionar por sí sola), su último lanzamiento estable es el equivalente a la rama "de Prueba", porque aunque es estable consigue su actualización desde <i>Romeo</i>. Dependiendo de sus dependencias a un determinado paquete, puede también ser probado en Romeo para ser incluido en el próximo lanzamiento estable.
+</p>
+<h2><span class="mw-headline" id="Mantenedores">Mantenedores</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Linux_Mint&amp;action=edit&amp;section=15" title="Editar sección: Mantenedores">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Cada una de sus ediciones alternativas cuenta con un mantenedor, quien se encarga de delinear los objetivos de cada lanzamiento específico, así como también de seleccionar el software que se incluirá en la próxima versión.
+</p><p>Actualmente el mantenedor y líder del proyecto es:
+</p>
+<ul><li>Clement Lefebvre <a href="/wiki/Archivo:Nuvola_France_flag.svg" class="image"><img alt="Nuvola France flag.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Nuvola_France_flag.svg/20px-Nuvola_France_flag.svg.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Nuvola_France_flag.svg/30px-Nuvola_France_flag.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Nuvola_France_flag.svg/40px-Nuvola_France_flag.svg.png 2x" data-file-width="64" data-file-height="64" /></a></li></ul>
+<p>El Matenedor de la desaparecida edición KDE fue:
+</p>
+<ul><li>Frederic Gaudet <a href="/wiki/Archivo:Nuvola_France_flag.svg" class="image"><img alt="Nuvola France flag.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Nuvola_France_flag.svg/20px-Nuvola_France_flag.svg.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Nuvola_France_flag.svg/30px-Nuvola_France_flag.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Nuvola_France_flag.svg/40px-Nuvola_France_flag.svg.png 2x" data-file-width="64" data-file-height="64" /></a></li></ul>
+<p>Linux Mint está basado y usa los repositorios de <a href="/wiki/Software" title="Software">software</a> que son usados en la <a href="/wiki/Distribuci%C3%B3n_Linux" title="Distribución Linux">distribución GNU/Linux</a> <a href="/wiki/Ubuntu_(distribuci%C3%B3n_Linux)" class="mw-redirect" title="Ubuntu (distribución Linux)">Ubuntu</a>, así como también ciertos repositorios propios y de terceros.
+</p><p>Por ejemplo, el lanzamiento 2.2 (“Bianca”) utiliza los paquetes de Ubuntu “Edgy Eft” (6.10). La mayoría de los paquetes son iguales en ambas distribuciones y los dos sistemas se comportan casi idénticamente.
+</p><p>Las mayores diferencias están en el escritorio. Linux Mint viene con aplicaciones hechas para el uso individual, las cuales están diseñadas para realzar la experiencia del usuario. Una muestra de esto es <i>mintDesktop</i>, que permite una mayor configuración de <a href="/wiki/GNOME" title="GNOME">GNOME</a> y una búsqueda automática de grupos de trabajo <a href="/wiki/Windows" class="mw-redirect" title="Windows">Windows</a> y <a href="/w/index.php?title=Entorno_de_red&amp;action=edit&amp;redlink=1" class="new" title="Entorno de red (aún no redactado)">entornos de red</a>. <i>MintWifi</i> hace más fácil la configuración de las tarjetas <a href="/wiki/Wireless" class="mw-redirect" title="Wireless">wireless</a> que no tienen conexión a <a href="/wiki/Internet" title="Internet">Internet</a>. <i>MintMenu</i> provee una nueva forma de usar el escritorio <a href="/wiki/GNOME" title="GNOME">GNOME</a>, y <i>MintBackup</i> dispone una manera sencilla de realizar <a href="/wiki/Copia_de_seguridad" title="Copia de seguridad">copias de seguridad</a>.
+</p><p>Algunos pocos cambios en el <a href="/wiki/Sistema_operativo" title="Sistema operativo">sistema</a> hacen a este sistema un tanto más rápido que <a href="/wiki/Ubuntu_(distribuci%C3%B3n_Linux)" class="mw-redirect" title="Ubuntu (distribución Linux)">Ubuntu</a>. Por ejemplo, el soporte para <a href="/wiki/IPv6" title="IPv6">IPv6</a> está deshabilitado en Linux Mint. Los <i>codecs</i> <a href="/wiki/Multimedia" title="Multimedia">multimedia</a> están instalados por defecto en Linux Mint.
+El conjunto de aplicaciones por defecto es diferente entre las dos distribuciones y la versión de algunos programas es más actual, debido a que las versiones de Linux Mint salen más tarde (llámese <a href="/wiki/Amarok_(software)" title="Amarok (software)">Amarok</a>, <a href="/wiki/KDE" title="KDE">KDE</a>, <a href="/wiki/Koffice" class="mw-redirect" title="Koffice">Koffice</a>, <a href="/wiki/OpenOffice.org" class="mw-redirect" title="OpenOffice.org">OpenOffice.org</a>). Así mismo, Ubuntu soporta las <a href="/wiki/Arquitectura_de_computadores" class="mw-redirect" title="Arquitectura de computadores">arquitecturas</a> <a href="/wiki/PowerPC" title="PowerPC">PowerPC</a> y <a href="/wiki/X86-64" title="X86-64">x64</a>, mientras Linux Mint solo soporta, en forma estable, a la arquitectura <a href="/wiki/X86" title="X86">x86</a>; y recientemente a la versión de <a href="/wiki/64_bits" title="64 bits">64 bits</a>.<sup id="cite_ref-44" class="reference separada"><a href="#cite_note-44"><span class="corchete-llamada">[</span>44<span class="corchete-llamada">]</span></a></sup>&#8203; <a href="/wiki/Ubuntu_(distribuci%C3%B3n_Linux)" class="mw-redirect" title="Ubuntu (distribución Linux)">Ubuntu</a> provee una instalación para servidores (Ubuntu Server) y otra basada en texto (Alternate),<sup id="cite_ref-45" class="reference separada"><a href="#cite_note-45"><span class="corchete-llamada">[</span>45<span class="corchete-llamada">]</span></a></sup>&#8203; éstas no existen en Linux Mint.
+</p><p>El 7 de septiembre de 2010 fue anunciada la Linux Mint Debian Edition.<sup id="cite_ref-46" class="reference separada"><a href="#cite_note-46"><span class="corchete-llamada">[</span>46<span class="corchete-llamada">]</span></a></sup>&#8203; El objetivo de esta edición es estar lo más cerca posible de la edición principal (Gnome), pero con una base <a href="/wiki/Debian" class="mw-redirect" title="Debian">Debian</a> en lugar de <a href="/wiki/Ubuntu_(distribuci%C3%B3n_Linux)" class="mw-redirect" title="Ubuntu (distribución Linux)">Ubuntu</a>. Actualmente está disponible la versión de 32 bits y de 64 bits.
+</p><p>Tras el lanzamiento de LMDE y la elección de <a href="/wiki/Canonical" title="Canonical">Canonical</a> de usar <a href="/wiki/Unity_(entorno_de_escritorio)" title="Unity (entorno de escritorio)">Unity</a> en lugar del <a href="/wiki/GNOME_Shell" title="GNOME Shell">GNOME Shell</a> y una encuesta abierta realizada a través del <a href="/wiki/Blog" title="Blog">blog</a>, se decidió utilizar Debian como base para futuras ediciones, esto no significa que se dejará de lado a Ubuntu, sino que ahora se contará con ediciones basadas en <a href="/wiki/Debian_GNU/Linux" title="Debian GNU/Linux">Debian GNU/Linux</a> de los entornos de escritorio más utilizados junto con las ya conocidas ediciones basadas en Ubuntu.
+</p>
+<h2><span class="mw-headline" id="Requerimientos_de_sistema">Requerimientos de sistema</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Linux_Mint&amp;action=edit&amp;section=16" title="Editar sección: Requerimientos de sistema">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Como mínimo se recomiendan 1 GiB de RAM para ejecutar el LiveCD, aunque ya instalado correrá bien con 512 MiB. El espacio necesario para la instalación en el disco duro es de 2.5 GB, que están comprimidas en un CD de 700 MiB. En el caso de utilizar el instalador para Windows <i>mint4win</i> - Que está disponible a partir de la versión 6.0, y está basado en Wubi -, se recomienda como mínimo 512 Mb.
+</p>
+<table class="wikitable" style="text-align:center;">
+
+<tbody><tr>
+<th>
+</th>
+<th>Cinnamon
+</th>
+<th>MATE
+</th>
+<th>Xfce
+</th>
+<th>KDE
+</th>
+<th>LMDE (v. 201403)
+</th></tr>
+<tr>
+<th><a href="/wiki/Central_processing_unit" class="mw-redirect" title="Central processing unit">Procesador</a> (<a href="/wiki/IA-32" title="IA-32">x86</a>)
+</th>
+<td>700&#160;<a href="/wiki/Megahercio" title="Megahercio">MHz</a>
+</td>
+<td>700&#160;<a href="/wiki/Megahercio" title="Megahercio">MHz</a>
+</td>
+<td>700&#160;<a href="/wiki/Megahercio" title="Megahercio">MHz</a>
+</td>
+<td>700&#160;<a href="/wiki/Megahercio" title="Megahercio">MHz</a>
+</td>
+<td>700&#160;<a href="/wiki/Megahercio" title="Megahercio">MHz</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/Memoria_de_acceso_aleatorio" title="Memoria de acceso aleatorio">Memoria</a>
+</th>
+<td>512&#160;<a href="/wiki/Megabyte" title="Megabyte">MB</a>
+</td>
+<td>512&#160;<a href="/wiki/Megabyte" title="Megabyte">MB</a>
+</td>
+<td>512&#160;<a href="/wiki/Megabyte" title="Megabyte">MB</a>
+</td>
+<td>2&#160;<a href="/wiki/Gigabyte" title="Gigabyte">GB</a>
+</td>
+<td>1&#160;<a href="/wiki/Gigabyte" title="Gigabyte">GB</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/Disco_duro" class="mw-redirect" title="Disco duro">Disco duro</a> (espacio libre)
+</th>
+<td>8.6&#160;<a href="/wiki/Gigabyte" title="Gigabyte">GB</a>
+</td>
+<td>5&#160;<a href="/wiki/Gigabyte" title="Gigabyte">GB</a>
+</td>
+<td>10&#160;<a href="/wiki/Gigabyte" title="Gigabyte">GB</a>
+</td>
+<td>10&#160;<a href="/wiki/Gigabyte" title="Gigabyte">GB</a>
+</td>
+<td>5&#160;<a href="/wiki/Gigabyte" title="Gigabyte">GB</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/Monitor" class="mw-disambig" title="Monitor">Monitor</a> (<a href="/wiki/Resoluci%C3%B3n_de_pantalla" title="Resolución de pantalla">Resolución de pantalla</a>)
+</th>
+<td>800×600
+</td>
+<td>800×600
+</td>
+<td>800×600
+</td>
+<td>1024×768
+</td>
+<td>800×600
+</td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/Archivo:Instalarmint.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Instalarmint.png/300px-Instalarmint.png" decoding="async" width="300" height="225" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Instalarmint.png/450px-Instalarmint.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/Instalarmint.png/600px-Instalarmint.png 2x" data-file-width="1024" data-file-height="768" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Instalarmint.png" class="internal" title="Aumentar"></a></div>Instalación de Linux Mint desde Live CD.</div></div></div>
+<h2><span class="mw-headline" id="Desarrollo">Desarrollo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Linux_Mint&amp;action=edit&amp;section=17" title="Editar sección: Desarrollo">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>La financiación de esta <a href="/wiki/Distribuci%C3%B3n_Linux" title="Distribución Linux">distribución</a> consta de tres partes:
+</p>
+<ul><li>Patrocinio: ya sean de particulares, empresas, sitios web, <a href="/wiki/ONG" class="mw-redirect" title="ONG">ONG</a>, entre otros; a lo cual se ofrece <a href="/wiki/Publicidad_web" class="mw-redirect" title="Publicidad web">publicidad</a> en la página oficial de Linux Mint.</li>
+<li>Donaciones: realizadas por la <a href="/wiki/Comunidad_del_software_libre" title="Comunidad del software libre">comunidad</a>, las cuales van en directo apoyo a la <a href="/wiki/Distribuci%C3%B3n_Linux" title="Distribución Linux">distribución</a>, y cuya <a href="/w/index.php?title=Cuenta_publica&amp;action=edit&amp;redlink=1" class="new" title="Cuenta publica (aún no redactado)">cuenta pública</a> es mostrada en el sitio oficial.</li>
+<li>Asociaciones: Linux Mint se afilia a una empresa, la cual presta un servicio o vende un producto relacionado con Linux Mint, y a cambio recibe dinero.</li></ul>
+<h3><span id="Clasificaci.C3.B3n_de_paquetes"></span><span class="mw-headline" id="Clasificación_de_paquetes">Clasificación de paquetes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Linux_Mint&amp;action=edit&amp;section=18" title="Editar sección: Clasificación de paquetes">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Linux Mint divide sus repositorios de software en cuatro canales principales que reflejan las diferencias en su naturaleza y en su origen.
+</p>
+<dl><dt>principal (main)</dt>
+<dd>solo proporciona software desarrollado por Linux Mint.</dd>
+<dt>corriente arriba (upstream)</dt>
+<dd>proporciona software que está presente en Ubuntu pero parcheado o modificado por Linux Mint. Como resultado, el software proporcionado por este canal se comporta de manera diferente en cada distribución. Ejemplos notables son Grub, Plymouth, Ubiquity, Xchat, USB Creator y Yelp (el sistema de ayuda).</dd>
+<dt>importación (import)</dt>
+<dd>proporciona software que no está disponible en Ubuntu o para los que no hay versiones recientes disponibles en Ubuntu. Ejemplos notables son Opera, Picasa, Skype, Songbird, el plugin de 64 bits de Adobe Flash y <a href="/wiki/Frostwire" class="mw-redirect" title="Frostwire">Frostwire</a>.</dd>
+<dt>romeo</dt>
+<dd>no habilitado de forma predeterminada. Proporciona paquetes de prueba antes de ser promovidos a otros canales (estables). Como tal, representa la rama inestable de Linux Mint.</dd></dl>
+<p>Además, hay un canal "<a href="/wiki/Backport" title="Backport">backport</a>" para los puertos de software más reciente hacia versiones anteriores sin afectar a los otros canales. No está habilitado por defecto.
+</p>
+<h2><span id="Recepci.C3.B3n"></span><span class="mw-headline" id="Recepción">Recepción</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Linux_Mint&amp;action=edit&amp;section=19" title="Editar sección: Recepción">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Linux Mint ha sido elogiado por centrarse en los usuarios de escritorio.
+</p><p>En 2012, Linux Mint superó a Ubuntu como la distribución más vista en DistroWatch.
+</p><p>En una encuesta en línea en 2012 en <a href="/w/index.php?title=Lifehacker&amp;action=edit&amp;redlink=1" class="new" title="Lifehacker (aún no redactado)">Lifehacker</a>, Linux Mint fue votada como la mejor distribución tras Ubuntu, con alrededor del 16% de los votos.
+</p><p>En el número 162, Linux Format nombró a Mint como la mejor distro para 2012.
+</p><p>En el número 128 (julio de 2013), <a href="/w/index.php?title=Linux_User_and_Developer&amp;action=edit&amp;redlink=1" class="new" title="Linux User and Developer (aún no redactado)">Linux User and Developer</a> dio a <i>Linux Mint 15 ("Olivia")</i> una puntuación de 5/5, que indica que "no hemos encontrado un solo problema con la distro ... estamos más que satisfechos con la experiencia suave, fácil de usar que Linux Mint 15, y Cinnamon 1.8, proporcionan que será nuestra principal distro para por lo menos durante otros 6 meses".
+</p>
+<h2><span class="mw-headline" id="Referencias">Referencias</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Linux_Mint&amp;action=edit&amp;section=20" title="Editar sección: Referencias">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="listaref" style="-moz-column-count:3; -webkit-column-count:3; column-count:3; list-style-type: decimal;"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.linuxmint.com/about.php">«About»</a>. Linux Mint<span class="reference-accessdate">. Consultado el 24 de diciembre de 2015</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.btitle=About&amp;rft.genre=book&amp;rft.pub=Linux+Mint&amp;rft_id=http%3A%2F%2Fwww.linuxmint.com%2Fabout.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.linuxmint.com/faq.php">«FAQ»</a>. Linux Mint<span class="reference-accessdate">. Consultado el 24 de diciembre de 2015</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.btitle=FAQ&amp;rft.genre=book&amp;rft.pub=Linux+Mint&amp;rft_id=http%3A%2F%2Fwww.linuxmint.com%2Ffaq.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span id="CITAREFKhamlichi" class="citation web">Khamlichi, M.el. <a rel="nofollow" class="external text" href="http://www.unixmen.com/linux-mint-history-development/">«Q&amp;A: Clement Lefebvre: The man behind Linux Mint»</a>. Unixmen<span class="reference-accessdate">. Consultado el 24 de diciembre de 2015</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.au=Khamlichi%2C+M.el&amp;rft.aufirst=M.el&amp;rft.aulast=Khamlichi&amp;rft.btitle=Q%26A%3A+Clement+Lefebvre%3A+The+man+behind+Linux+Mint&amp;rft.genre=book&amp;rft.pub=Unixmen&amp;rft_id=http%3A%2F%2Fwww.unixmen.com%2Flinux-mint-history-development%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span id="CITAREFvon_Eitzen" class="citation web">von Eitzen, Christopher. <a rel="nofollow" class="external text" href="http://www.networkworld.com/article/2170903/software/q-a--clement-lefebvre--the-man-behind-linux-mint.html">«Linux Mint History and Development»</a>. Network World<span class="reference-accessdate">. Consultado el 24 de diciembre de 2015</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.au=von+Eitzen%2C+Christopher&amp;rft.aufirst=Christopher&amp;rft.aulast=von+Eitzen&amp;rft.btitle=Linux+Mint+History+and+Development&amp;rft.genre=book&amp;rft.pub=Network+World&amp;rft_id=http%3A%2F%2Fwww.networkworld.com%2Farticle%2F2170903%2Fsoftware%2Fq-a--clement-lefebvre--the-man-behind-linux-mint.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://blog.linuxmint.com/?p=2031">Linux Mint 13 <i>Maya</i> released!</a> (en <a href="/wiki/Idioma_ingl%C3%A9s" title="Idioma inglés">inglés</a>)</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://blog.linuxmint.com/?p=2216">«Linux Mint 14 “Nadia” released!»</a> <span style="color:#555;">(Blog)</span>. <i>The Linux Mint Blog</i>. 20 de noviembre de 2012<span class="reference-accessdate">. Consultado el 23 de noviembre de 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.atitle=Linux+Mint+14+%E2%80%9CNadia%E2%80%9D+released%21&amp;rft.date=20+de+noviembre+de+2012&amp;rft.genre=article&amp;rft.jtitle=The+Linux+Mint+Blog&amp;rft_id=http%3A%2F%2Fblog.linuxmint.com%2F%3Fp%3D2216&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://blog.linuxmint.com/?p=2366">Linux Mint 15 <i>Olivia</i> released!</a> (en <a href="/wiki/Idioma_ingl%C3%A9s" title="Idioma inglés">inglés</a>)</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">
+<a rel="nofollow" class="external text" href="http://blog.linuxmint.com/?p=2626">Linux Mint 17 “Qiana” Cinnamon released!</a> (en <a href="/wiki/Idioma_ingl%C3%A9s" title="Idioma inglés">inglés</a>)</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">
+<a rel="nofollow" class="external text" href="http://blog.linuxmint.com/?p=2714">Linux Mint 17.1 “Rebecca” Cinnamon released!</a> (en <a href="/wiki/Idioma_ingl%C3%A9s" title="Idioma inglés">inglés</a>)</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">
+<a rel="nofollow" class="external text" href="http://blog.linuxmint.com/?p=2864">Linux Mint 17.2 “Rafaela” MATE released!</a> (en <a href="/wiki/Idioma_ingl%C3%A9s" title="Idioma inglés">inglés</a>)</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">
+<a rel="nofollow" class="external text" href="http://blog.linuxmint.com/?p=2947">Linux Mint 17.3 “Rosa” MATE released!</a> (en <a href="/wiki/Idioma_ingl%C3%A9s" title="Idioma inglés">inglés</a>)</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">
+<a rel="nofollow" class="external text" href="http://blog.linuxmint.com/?p=2975">Linux Mint 18 codenamed “Sarah”</a> (en <a href="/wiki/Idioma_ingl%C3%A9s" title="Idioma inglés">inglés</a>)</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><span class="citation noticia"><a rel="nofollow" class="external text" href="http://blog.linuxmint.com/?p=3181">«Linux Mint 18.1 "Serena" Cinnamon released!»</a>. <i>The Linux Mint Blog</i> <span style="color:#555;">(en inglés estadounidense)</span><span class="reference-accessdate">. Consultado el 17 de diciembre de 2016</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.atitle=Linux+Mint+18.1+%22Serena%22+Cinnamon+released%21&amp;rft.genre=article&amp;rft.jtitle=The+Linux+Mint+Blog&amp;rft_id=http%3A%2F%2Fblog.linuxmint.com%2F%3Fp%3D3181&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><span class="citation noticia"><a rel="nofollow" class="external text" href="http://blog.linuxmint.com/?p=3289">«Linux Mint 18.2 "Sonya" Cinnamon released!»</a>. <i>The Linux Mint Blog</i> <span style="color:#555;">(en inglés estadounidense)</span><span class="reference-accessdate">. Consultado el 2 de julio de 2017</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.atitle=Linux+Mint+18.2+%22Sonya%22+Cinnamon+released%21&amp;rft.genre=article&amp;rft.jtitle=The+Linux+Mint+Blog&amp;rft_id=http%3A%2F%2Fblog.linuxmint.com%2F%3Fp%3D3289&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><span class="citation noticia"><a rel="nofollow" class="external text" href="https://blog.linuxmint.com/?p=3458">«Linux Mint 18.2 "Sonya" Cinnamon released!»</a>. <i>The Linux Mint Blog</i> <span style="color:#555;">(en inglés estadounidense)</span><span class="reference-accessdate">. Consultado el 12 de diciembre de 2017</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.atitle=Linux+Mint+18.2+%22Sonya%22+Cinnamon+released%21&amp;rft.genre=article&amp;rft.jtitle=The+Linux+Mint+Blog&amp;rft_id=https%3A%2F%2Fblog.linuxmint.com%2F%3Fp%3D3458&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><span class="citation noticia"><a rel="nofollow" class="external text" href="https://blog.linuxmint.com/?p=3597">«Linux Mint 19 codenamed “Tara”»</a>. <i>The Linux Mint Blog</i> <span style="color:#555;">(en inglés estadounidense)</span><span class="reference-accessdate">. Consultado el 30 de junio de 2018</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.atitle=Linux+Mint+19+codenamed+%E2%80%9CTara%E2%80%9D&amp;rft.genre=article&amp;rft.jtitle=The+Linux+Mint+Blog&amp;rft_id=https%3A%2F%2Fblog.linuxmint.com%2F%3Fp%3D3597&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><span class="citation noticia"><a rel="nofollow" class="external text" href="https://blog.linuxmint.com/?p=3669">«Linux Mint 19.1 codenamed “Tessa”»</a>. <i>The Linux Mint Blog</i> <span style="color:#555;">(en inglés estadounidense)</span><span class="reference-accessdate">. Consultado el 19 de diciembre de 2018</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.atitle=Linux+Mint+19.1+codenamed+%E2%80%9CTessa%E2%80%9D&amp;rft.genre=article&amp;rft.jtitle=The+Linux+Mint+Blog&amp;rft_id=https%3A%2F%2Fblog.linuxmint.com%2F%3Fp%3D3669&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><span class="citation noticia"><a rel="nofollow" class="external text" href="https://blog.linuxmint.com/?p=3687">«Linux Mint 19.2 codenamed “Tina”»</a>. <i>The Linux Mint Blog</i> <span style="color:#555;">(en inglés estadounidense)</span><span class="reference-accessdate">. Consultado el 9 de agosto de 2019</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.atitle=Linux+Mint+19.2+codenamed+%E2%80%9CTina%E2%80%9D&amp;rft.genre=article&amp;rft.jtitle=The+Linux+Mint+Blog&amp;rft_id=https%3A%2F%2Fblog.linuxmint.com%2F%3Fp%3D3687&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><span class="citation noticia"><a rel="nofollow" class="external text" href="https://blog.linuxmint.com/?p=3820">«Linux Mint 19.3 codenamed “Tricia”»</a>. <i>The Linux Mint Blog</i> <span style="color:#555;">(en inglés estadounidense)</span><span class="reference-accessdate">. Consultado el 15 de diciembre de 2019</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.atitle=Linux+Mint+19.3+codenamed+%E2%80%9CTricia%E2%80%9D&amp;rft.genre=article&amp;rft.jtitle=The+Linux+Mint+Blog&amp;rft_id=https%3A%2F%2Fblog.linuxmint.com%2F%3Fp%3D3820&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://blog.linuxmint.com/?p=3928">«Linux Mint 20 “Ulyana” Cinnamon released! – The Linux Mint Blog»</a>. <i>blog.linuxmint.com</i> <span style="color:#555;">(en inglés estadounidense)</span><span class="reference-accessdate">. Consultado el 27 de junio de 2020</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.atitle=Linux+Mint+20+%E2%80%9CUlyana%E2%80%9D+Cinnamon+released%21+%E2%80%93+The+Linux+Mint+Blog&amp;rft.genre=article&amp;rft.jtitle=blog.linuxmint.com&amp;rft_id=https%3A%2F%2Fblog.linuxmint.com%2F%3Fp%3D3928&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://blog.linuxmint.com/?p=4011">«Linux Mint 20.1 “Ulyssa” Cinnamon released! – The Linux Mint Blog»</a>. <i>blog.linuxmint.com</i> <span style="color:#555;">(en inglés estadounidense)</span><span class="reference-accessdate">. Consultado el 12 de enero de 2021</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.atitle=Linux+Mint+20.1+%E2%80%9CUlyssa%E2%80%9D+Cinnamon+released%21+%E2%80%93+The+Linux+Mint+Blog&amp;rft.genre=article&amp;rft.jtitle=blog.linuxmint.com&amp;rft_id=https%3A%2F%2Fblog.linuxmint.com%2F%3Fp%3D4011&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://blog.linuxmint.com/?p=4102">«Linux Mint 20.2 “Uma” Cinnamon released! – The Linux Mint Blog»</a>. <i>blog.linuxmint.com</i> <span style="color:#555;">(en inglés estadounidense)</span><span class="reference-accessdate">. Consultado el 8 de julio de 2021</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.atitle=Linux+Mint+20.2+%E2%80%9CUma%E2%80%9D+Cinnamon+released%21+%E2%80%93+The+Linux+Mint+Blog&amp;rft.genre=article&amp;rft.jtitle=blog.linuxmint.com&amp;rft_id=https%3A%2F%2Fblog.linuxmint.com%2F%3Fp%3D4102&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.linuxmint.com/rel_debian_whatsnew.php">«Lista de cambios de Linux Mint Debian»</a> <span style="color:#555;">(en inglés)</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.btitle=Lista+de+cambios+de+Linux+Mint+Debian&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.linuxmint.com%2Frel_debian_whatsnew.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-linuxmint_1-24"><span class="mw-cite-backlink">↑ <a href="#cite_ref-linuxmint_1_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-linuxmint_1_24-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.linuxmint.com/blog/?p=1527">Linux Mint Debian (201009) released!</a> (en <a href="/wiki/Idioma_ingl%C3%A9s" title="Idioma inglés">inglés</a>)</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://blog.linuxmint.com/?p=1818">Linux Mint Debian 201109 (Gnome &amp; Xfce) released!</a> (en <a href="/wiki/Idioma_ingl%C3%A9s" title="Idioma inglés">inglés</a>)</span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://blog.linuxmint.com/?p=2346">«Linux Mint Debian Edition 201303»</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.btitle=Linux+Mint+Debian+Edition+201303&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fblog.linuxmint.com%2F%3Fp%3D2346&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><a href="#cite_ref-27">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://blog.linuxmint.com/?p=2577">«Linux Mint Debian Edition 201403»</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.btitle=Linux+Mint+Debian+Edition+201403&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fblog.linuxmint.com%2F%3Fp%3D2577&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://blog.linuxmint.com/?p=2808">«Linux Mint Debian Edition 2 201503»</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.btitle=Linux+Mint+Debian+Edition+2+201503&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fblog.linuxmint.com%2F%3Fp%3D2808&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><a href="#cite_ref-29">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://blog.linuxmint.com/?p=3633">«Linux Mint Debian Edition 3 201503»</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.btitle=Linux+Mint+Debian+Edition+3+201503&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fblog.linuxmint.com%2F%3Fp%3D3633&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><a href="#cite_ref-30">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://blog.linuxmint.com/?p=3867">«Linux Mint Debian Edition 4 202003»</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.btitle=Linux+Mint+Debian+Edition+4+202003&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fblog.linuxmint.com%2F%3Fp%3D3867&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><a href="#cite_ref-31">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://blog.linuxmint.com/?p=4149">«Monthly News – September 2021»</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.btitle=Monthly+News+%E2%80%93+September+2021&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fblog.linuxmint.com%2F%3Fp%3D4149&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-qiana-32"><span class="mw-cite-backlink">↑ <a href="#cite_ref-qiana_32-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-qiana_32-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-qiana_32-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.linuxmint.com/release.php?id=22">«Editions for Linux Mint 17 "Qiana<span style="padding-right:0.2em;">"</span>»</a>. linuxmint.com<span class="reference-accessdate">. Consultado el 20 de agosto de 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.btitle=Editions+for+Linux+Mint+17+%22Qiana%22&amp;rft.genre=book&amp;rft.pub=linuxmint.com&amp;rft_id=http%3A%2F%2Fwww.linuxmint.com%2Frelease.php%3Fid%3D22&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-sarah-33"><span class="mw-cite-backlink"><a href="#cite_ref-sarah_33-0">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.linuxmint.com/release.php?id=27">«Editions for Linux Mint 18 "Sarah<span style="padding-right:0.2em;">"</span>»</a>. linuxmint.com<span class="reference-accessdate">. Consultado el 12 de agosto de 2019</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.btitle=Editions+for+Linux+Mint+18+%22Sarah%22&amp;rft.genre=book&amp;rft.pub=linuxmint.com&amp;rft_id=http%3A%2F%2Fwww.linuxmint.com%2Frelease.php%3Fid%3D27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-tara-34"><span class="mw-cite-backlink"><a href="#cite_ref-tara_34-0">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.linuxmint.com/release.php?id=32">«Editions for Linux Mint 19 "Tara<span style="padding-right:0.2em;">"</span>»</a>. linuxmint.com<span class="reference-accessdate">. Consultado el 12 de agosto de 2019</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.btitle=Editions+for+Linux+Mint+19+%22Tara%22&amp;rft.genre=book&amp;rft.pub=linuxmint.com&amp;rft_id=http%3A%2F%2Fwww.linuxmint.com%2Frelease.php%3Fid%3D32&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-ulyana-35"><span class="mw-cite-backlink"><a href="#cite_ref-ulyana_35-0">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.linuxmint.com/release.php?id=38">«Editions for Linux Mint 20 "Ulyana<span style="padding-right:0.2em;">"</span>»</a>. linuxmint.com<span class="reference-accessdate">. Consultado el 12 de noviembre de 2020</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.btitle=Editions+for+Linux+Mint+20+%22Ulyana%22&amp;rft.genre=book&amp;rft.pub=linuxmint.com&amp;rft_id=http%3A%2F%2Fwww.linuxmint.com%2Frelease.php%3Fid%3D38&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><a href="#cite_ref-36">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.linuxmint.com/download_lmde.php">«Download Linux Mint Debian»</a>. linuxmint.com<span class="reference-accessdate">. Consultado el 12 de agosto de 2019</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.btitle=Download+Linux+Mint+Debian&amp;rft.genre=book&amp;rft.pub=linuxmint.com&amp;rft_id=http%3A%2F%2Fwww.linuxmint.com%2Fdownload_lmde.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-rel_maya-37"><span class="mw-cite-backlink"><a href="#cite_ref-rel_maya_37-0">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://linuxmint.com/rel_maya.php">«Release Notes for Linux Mint 13»</a>. linuxmint.com<span class="reference-accessdate">. Consultado el 20 de agosto de 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.btitle=Release+Notes+for+Linux+Mint+13&amp;rft.genre=book&amp;rft.pub=linuxmint.com&amp;rft_id=http%3A%2F%2Flinuxmint.com%2Frel_maya.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><a href="#cite_ref-38">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://linuxmint.com/release.php?id=31">«Editions for Linux Mint 18.3 "Sylvia<span style="padding-right:0.2em;">"</span>»</a>. <i>Página Web Oficial de Linux Mint</i> <span style="color:#555;">(en inglés)</span><span class="reference-accessdate">. Consultado el 11 de agosto de 2019</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.atitle=Editions+for+Linux+Mint+18.3+%22Sylvia%22&amp;rft.genre=article&amp;rft.jtitle=P%C3%A1gina+Web+Oficial+de+Linux+Mint&amp;rft_id=https%3A%2F%2Flinuxmint.com%2Frelease.php%3Fid%3D31&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><a href="#cite_ref-39">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://linuxmint.com/release.php?id=32">«Editions for Linux Mint 19 "Tara<span style="padding-right:0.2em;">"</span>»</a>. <i>Página Web Oficial de Linux Mint</i> <span style="color:#555;">(en inglés)</span><span class="reference-accessdate">. Consultado el 11 de agosto de 2019</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.atitle=Editions+for+Linux+Mint+19+%22Tara%22&amp;rft.genre=article&amp;rft.jtitle=P%C3%A1gina+Web+Oficial+de+Linux+Mint&amp;rft_id=https%3A%2F%2Flinuxmint.com%2Frelease.php%3Fid%3D32&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><a href="#cite_ref-40">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://linuxmint-user-guide.readthedocs.io/en/latest/edge.html">«Edge ISO Images»</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.btitle=Edge+ISO+Images&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Flinuxmint-user-guide.readthedocs.io%2Fen%2Flatest%2Fedge.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><a href="#cite_ref-41">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://blog.linuxmint.com/?p=4287">https://blog.linuxmint.com/?p=4287</a></span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><a href="#cite_ref-42">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.linuxmint.com/download_lmde.php">«LMDE»</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.btitle=LMDE&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.linuxmint.com%2Fdownload_lmde.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><a href="#cite_ref-43">↑</a></span> <span class="reference-text">
+<span class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20161029043615/http://lasombradelhelicoptero.com/lmde-2-betsy-estabilidad-duradera/">«Copia archivada»</a>. Archivado desde <a rel="nofollow" class="external text" href="http://lasombradelhelicoptero.com/lmde-2-betsy-estabilidad-duradera/">el original</a> el 29 de octubre de 2016<span class="reference-accessdate">. Consultado el 28 de octubre de 2016</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.btitle=Copia+archivada&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Flasombradelhelicoptero.com%2Flmde-2-betsy-estabilidad-duradera%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><a href="#cite_ref-44">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.linuxmint.com/download.php">«Linux Mint x64 Edition (RC1)»</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.btitle=Linux+Mint+x64+Edition+%28RC1%29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.linuxmint.com%2Fdownload.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><a href="#cite_ref-45">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://releases.ubuntu.com/8.10/">«Ubuntu Server y Alternate, versión 8.10»</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.btitle=Ubuntu+Server+y+Alternate%2C+versi%C3%B3n+8.10&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Freleases.ubuntu.com%2F8.10%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><a href="#cite_ref-46">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.linuxmint.com/blog/?p=1527">«Linux Mint Debian Edition»</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ALinux+Mint&amp;rft.btitle=Linux+Mint+Debian+Edition&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.linuxmint.com%2Fblog%2F%3Fp%3D1527&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+</ol></div>
+<h2><span id="V.C3.A9ase_tambi.C3.A9n"></span><span class="mw-headline" id="Véase_también">Véase también</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Linux_Mint&amp;action=edit&amp;section=21" title="Editar sección: Véase también">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Archivo:Heckert_GNU_white.svg" class="image" title="Ver el portal sobre Software libre"><img alt="Ver el portal sobre Software libre" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/20px-Heckert_GNU_white.svg.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/30px-Heckert_GNU_white.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/40px-Heckert_GNU_white.svg.png 2x" data-file-width="535" data-file-height="523" /></a> <a href="/wiki/Portal:Software_libre" title="Portal:Software libre">Portal:Software libre</a>. Contenido relacionado con <b><a href="/wiki/Software_libre" title="Software libre">Software libre</a></b>.</li>
+<li><a href="/wiki/Anexo:Distribuciones_Linux" title="Anexo:Distribuciones Linux">Anexo:Distribuciones Linux</a></li>
+<li><a href="/wiki/GNU/Linux" title="GNU/Linux">GNU/Linux</a></li>
+<li><a href="/wiki/Cinnamon" title="Cinnamon">Cinnamon</a></li>
+<li><a href="/wiki/Controversia_sobre_GNOME_3" class="mw-redirect" title="Controversia sobre GNOME 3">Controversia sobre GNOME 3</a></li>
+<li><a href="/w/index.php?title=Debian_CUT&amp;action=edit&amp;redlink=1" class="new" title="Debian CUT (aún no redactado)">Debian CUT</a></li>
+<li><a href="/wiki/Linux_Lite" title="Linux Lite">Linux Lite</a></li>
+<li><a href="/wiki/Manjaro_Linux" title="Manjaro Linux">Manjaro Linux</a></li>
+<li><a href="/w/index.php?title=MOTE&amp;action=edit&amp;redlink=1" class="new" title="MOTE (aún no redactado)">MOTE</a></li>
+<li><a href="/wiki/Rolling_release" class="mw-redirect" title="Rolling release">Rolling release</a></li>
+<li><a href="/wiki/Ubiquity_(software)" title="Ubiquity (software)">Ubiquity (software)</a></li>
+<li><a href="/wiki/Ubuntu_(distribuci%C3%B3n_Linux)" class="mw-redirect" title="Ubuntu (distribución Linux)">Ubuntu</a></li></ul>
+<h2><span class="mw-headline" id="Enlaces_externos">Enlaces externos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Linux_Mint&amp;action=edit&amp;section=22" title="Editar sección: Enlaces externos">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="/wiki/Wikimedia_Commons" title="Wikimedia Commons">Wikimedia Commons</a> alberga una categoría multimedia sobre <b><a href="https://commons.wikimedia.org/wiki/Category:Linux_Mint" class="extiw" title="commons:Category:Linux Mint">Linux Mint</a></b>.</li>
+<li class="mw-empty-elt"></li>
+<li><a rel="nofollow" class="external text" href="https://linuxmint.com/">Sitio web oficial</a>
+<ul><li><a rel="nofollow" class="external text" href="https://blog.linuxmint.com/">Blog oficial</a></li>
+<li><a rel="nofollow" class="external text" href="https://segfault.linuxmint.com/">Blog de desarrollo de Linux Mint</a></li></ul></li>
+<li><a rel="nofollow" class="external text" href="http://distrowatch.com/table.php?distribution=mint"><i>Linux Mint</i></a> en <a href="/wiki/DistroWatch" title="DistroWatch">DistroWatch</a></li>
+<li><a rel="nofollow" class="external text" href="https://forums.linuxmint.com/viewforum.php?f=68">Comunidad en español de Linux Mint</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080104092654/http://www.linuxmint-hispano.com/">Comunidad Hispana Oficial de Linux Mint</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.onworks.net/os-distributions/debian-based/free-linux-mint-online">Ejecute Linux Mint online en OnWorks</a></li></ul>
+<style data-mw-deduplicate="TemplateStyles:r144106945">.mw-parser-output .mw-authority-control{margin-top:1.5em}.mw-parser-output .mw-authority-control .navbox hr:last-child{display:none}.mw-parser-output .mw-authority-control .navbox+.mw-mf-linked-projects{display:none}.mw-parser-output .mw-authority-control .mw-mf-linked-projects{display:flex;padding:0.5em;border:1px solid #c8ccd1;background-color:#eaecf0;color:#222222}.mw-parser-output .mw-authority-control .mw-mf-linked-projects ul li{margin-bottom:0}</style><div class="mw-authority-control"><div role="navigation" class="navbox" aria-label="Navbox" style="width: inherit;padding:3px"><table class="hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width: 12%; text-align:center;"><a href="/wiki/Control_de_autoridades" title="Control de autoridades">Control de autoridades</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b>Proyectos Wikimedia</b></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata"><img alt="Wd" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/20px-Wikidata-logo.svg.png" decoding="async" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a> Datos:</span> <span class="uid"><a href="https://www.wikidata.org/wiki/Q2027" class="extiw" title="wikidata:Q2027">Q2027</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikimedia_Commons" title="Commonscat"><img alt="Commonscat" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Multimedia:</span> <span class="uid"><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:Linux_Mint">Linux Mint</a></span></span></li></ul>
+<hr />
+</div></td></tr></tbody></table></div><div class="mw-mf-linked-projects hlist">
+<ul><li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata"><img alt="Wd" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/20px-Wikidata-logo.svg.png" decoding="async" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a> Datos:</span> <span class="uid"><a href="https://www.wikidata.org/wiki/Q2027" class="extiw" title="wikidata:Q2027">Q2027</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikimedia_Commons" title="Commonscat"><img alt="Commonscat" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Multimedia:</span> <span class="uid"><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:Linux_Mint">Linux Mint</a></span></span></li></ul>
+</div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1396
+Cached time: 20220802214039
+Cache expiry: 3600
+Reduced expiry: true
+Complications: []
+CPU time usage: 0.632 seconds
+Real time usage: 0.762 seconds
+Preprocessor visited node count: 3827/1000000
+Post‐expand include size: 62753/2097152 bytes
+Template argument size: 3016/2097152 bytes
+Highest expansion depth: 13/100
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 48203/5000000 bytes
+Lua time usage: 0.276/10.000 seconds
+Lua memory usage: 5580098/52428800 bytes
+Number of Wikibase entities loaded: 2/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  560.379      1 -total
+ 33.42%  187.257      1 Plantilla:Ficha_de_software
+ 20.52%  115.004      1 Plantilla:Listaref
+ 17.56%   98.394      1 Plantilla:Control_de_autoridades
+  8.50%   47.627      1 Plantilla:Commonscat
+  7.48%   41.933      1 Plantilla:Portal
+  7.03%   39.389     24 Plantilla:Cita_web
+  6.75%   37.829      2 Plantilla:PortalIconos
+  6.06%   33.980      1 Plantilla:Propiedad
+  6.00%   33.640      5 Plantilla:Cite_web
+-->
+
+<!-- Saved in parser cache with key eswiki:pcache:idhash:945089-0!canonical and timestamp 20220802214039 and revision id 145144778.
+ -->
+</div><noscript><img src="//es.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Obtenido de «<a dir="ltr" href="https://es.wikipedia.org/w/index.php?title=Linux_Mint&amp;oldid=145144778">https://es.wikipedia.org/w/index.php?title=Linux_Mint&amp;oldid=145144778</a>»</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categor%C3%ADas" title="Especial:Categorías">Categorías</a>: <ul><li><a href="/wiki/Categor%C3%ADa:Distribuciones_basadas_en_Ubuntu" title="Categoría:Distribuciones basadas en Ubuntu">Distribuciones basadas en Ubuntu</a></li><li><a href="/wiki/Categor%C3%ADa:Distribuciones_basadas_en_Debian_GNU/Linux" title="Categoría:Distribuciones basadas en Debian GNU/Linux">Distribuciones basadas en Debian GNU/Linux</a></li><li><a href="/wiki/Categor%C3%ADa:Distribuciones_GNU/Linux_de_Irlanda" title="Categoría:Distribuciones GNU/Linux de Irlanda">Distribuciones GNU/Linux de Irlanda</a></li><li><a href="/wiki/Categor%C3%ADa:Distribuciones_Linux" title="Categoría:Distribuciones Linux">Distribuciones Linux</a></li><li><a href="/wiki/Categor%C3%ADa:Introducciones_relacionadas_a_la_ciencia_de_la_computaci%C3%B3n_de_2006" title="Categoría:Introducciones relacionadas a la ciencia de la computación de 2006">Introducciones relacionadas a la ciencia de la computación de 2006</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Menú de navegación</h2>
+	<div id="mw-head">
+		
+
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Herramientas personales</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="La página de usuario de la IP desde la que editas">No has accedido</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n"><span>Discusión</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y"><span>Contribuciones</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Linux+Mint" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio"><span>Crear una cuenta</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Linux+Mint" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o"><span>Acceder</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Espacios de nombres</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/Linux_Mint" title="Ver la página de contenido [c]" accesskey="c"><span>Artículo</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/Discusi%C3%B3n:Linux_Mint" rel="discussion" title="Discusión acerca de la página [t]" accesskey="t"><span>Discusión</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Cambiar variante de idioma"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">español</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Vistas</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/Linux_Mint"><span>Leer</span></a></li><li id="ca-edit" class="mw-list-item"><a href="/w/index.php?title=Linux_Mint&amp;action=edit" title="Editar esta página [e]" accesskey="e"><span>Editar</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=Linux_Mint&amp;action=history" title="Versiones anteriores de esta página [h]" accesskey="h"><span>Ver historial</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Más opciones" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Más</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Buscar</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Buscar en Wikipedia" aria-label="Buscar en Wikipedia" autocapitalize="sentences" title="Buscar en este wiki [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Especial:Buscar">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Busca páginas con este texto." value="Buscar">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Ir a la página con este nombre exacto si existe" value="Ir">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Wikipedia:Portada"
+			title="Visitar la página principal"></a>
+	</div>
+	
+
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Navegación</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:Portada" title="Visitar la página principal [z]" accesskey="z"><span>Portada</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Portal:Comunidad" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información"><span>Portal de la comunidad</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Actualidad" title="Encuentra información de contexto sobre acontecimientos actuales"><span>Actualidad</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en la wiki [r]" accesskey="r"><span>Cambios recientes</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/Especial:P%C3%A1ginasNuevas"><span>Páginas nuevas</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x"><span>Página aleatoria</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/Ayuda:Contenidos" title="El lugar para aprender"><span>Ayuda</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wikipedia.org&amp;uselang=es" title="Apóyanos"><span>Donaciones</span></a></li><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/Wikipedia:Informes_de_error"><span>Notificar un error</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Herramientas</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Especial:LoQueEnlazaAqu%C3%AD/Linux_Mint" title="Lista de todas las páginas de la wiki que enlazan aquí [j]" accesskey="j"><span>Lo que enlaza aquí</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Especial:CambiosEnEnlazadas/Linux_Mint" rel="nofollow" title="Cambios recientes en las páginas que enlazan con esta [k]" accesskey="k"><span>Cambios en enlazadas</span></a></li><li id="t-upload" class="mw-list-item"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u"><span>Subir archivo</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q"><span>Páginas especiales</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Linux_Mint&amp;oldid=145144778" title="Enlace permanente a esta versión de la página"><span>Enlace permanente</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Linux_Mint&amp;action=info" title="Más información sobre esta página"><span>Información de la página</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Especial:Citar&amp;page=Linux_Mint&amp;id=145144778&amp;wpFormIdentifier=titleform" title="Información sobre cómo citar esta página"><span>Citar esta página</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2027" title="Enlace al elemento conectado del repositorio de datos [g]" accesskey="g"><span>Elemento de Wikidata</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Imprimir/exportar</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=Especial:Libro&amp;bookcmd=book_creator&amp;referer=Linux+Mint"><span>Crear un libro</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Especial:DownloadAsPdf&amp;page=Linux_Mint&amp;action=show-download-screen"><span>Descargar como PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Linux_Mint&amp;printable=yes" title="Versión imprimible de esta página [p]" accesskey="p"><span>Versión para imprimir</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">En otros proyectos</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Linux_Mint" hreflang="en"><span>Wikimedia Commons</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">En otros idiomas</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (afrikáans)" lang="af" hreflang="af" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%84%D9%8A%D9%86%D9%83%D8%B3_%D9%85%D9%8A%D9%86%D8%AA" title="لينكس مينت (árabe)" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (azerbaiyano)" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (bielorruso)" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-be-x-old mw-list-item"><a href="https://be-tarask.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (Belarusian (Taraškievica orthography))" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target"><span>Беларуская (тарашкевіца)</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (búlgaro)" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%B2%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%B8_%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%9F" title="লিনাক্স মিন্ট (bengalí)" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (bosnio)" lang="bs" hreflang="bs" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (catalán)" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-ckb mw-list-item"><a href="https://ckb.wikipedia.org/wiki/%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3_%D9%85%DB%8C%D9%86%D8%AA" title="لینوکس مینت (kurdo sorani)" lang="ckb" hreflang="ckb" class="interlanguage-link-target"><span>کوردی</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (checo)" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (danés)" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (alemán)" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (griego)" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (inglés)" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Linukso_Mint" title="Linukso Mint (esperanto)" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (estonio)" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (euskera)" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3_%D9%85%DB%8C%D9%86%D8%AA" title="لینوکس مینت (persa)" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (finés)" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (francés)" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a href="https://ga.wikipedia.org/wiki/Linux_mint" title="Linux mint (irlandés)" lang="ga" hreflang="ga" class="interlanguage-link-target"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (gallego)" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%9C%D7%99%D7%A0%D7%95%D7%A7%D7%A1_%D7%9E%D7%99%D7%A0%D7%98" title="לינוקס מינט (hebreo)" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%95%E0%A5%8D%E0%A4%B8_%E0%A4%AE%E0%A4%BF%E0%A4%A3%E0%A5%8D%E0%A4%9F" title="लिनक्स मिण्ट (hindi)" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (croata)" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (húngaro)" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D4%BC%D5%AB%D5%B6%D5%B8%D6%82%D6%84%D5%BD_%D5%84%D5%AB%D5%B6%D5%A9" title="Լինուքս Մինթ (armenio)" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-ia mw-list-item"><a href="https://ia.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (interlingua)" lang="ia" hreflang="ia" class="interlanguage-link-target"><span>Interlingua</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (indonesio)" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (italiano)" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (japonés)" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (georgiano)" lang="ka" hreflang="ka" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4_%EB%AF%BC%ED%8A%B8" title="리눅스 민트 (coreano)" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-ky mw-list-item"><a href="https://ky.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (kirguís)" lang="ky" hreflang="ky" class="interlanguage-link-target"><span>Кыргызча</span></a></li><li class="interlanguage-link interwiki-lmo mw-list-item"><a href="https://lmo.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (Lombard)" lang="lmo" hreflang="lmo" class="interlanguage-link-target"><span>Lombard</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (lituano)" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (letón)" lang="lv" hreflang="lv" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B2%E0%B4%BF%E0%B4%A8%E0%B4%95%E0%B5%8D%E0%B4%B8%E0%B5%8D_%E0%B4%AE%E0%B4%BF%E0%B4%A8%E0%B5%8D%E0%B4%B1%E0%B5%8D" title="ലിനക്സ് മിന്റ് (malayalam)" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (neerlandés)" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (noruego nynorsk)" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (noruego bokmal)" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pa mw-list-item"><a href="https://pa.wikipedia.org/wiki/%E0%A8%B2%E0%A9%80%E0%A8%A8%E0%A8%95%E0%A8%B8_%E0%A8%AE%E0%A8%BF%E0%A9%B0%E0%A8%9F" title="ਲੀਨਕਸ ਮਿੰਟ (punyabí)" lang="pa" hreflang="pa" class="interlanguage-link-target"><span>ਪੰਜਾਬੀ</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (polaco)" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (portugués)" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-rm mw-list-item"><a href="https://rm.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (romanche)" lang="rm" hreflang="rm" class="interlanguage-link-target"><span>Rumantsch</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (rumano)" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (ruso)" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sah mw-list-item"><a href="https://sah.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (sakha)" lang="sah" hreflang="sah" class="interlanguage-link-target"><span>Саха тыла</span></a></li><li class="interlanguage-link interwiki-scn mw-list-item"><a href="https://scn.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (siciliano)" lang="scn" hreflang="scn" class="interlanguage-link-target"><span>Sicilianu</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (Simple English)" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (eslovaco)" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (albanés)" lang="sq" hreflang="sq" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/Linuks_mint" title="Linuks mint (serbio)" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-su mw-list-item"><a href="https://su.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (sundanés)" lang="su" hreflang="su" class="interlanguage-link-target"><span>Sunda</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (sueco)" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%B2%E0%AE%BF%E0%AE%A9%E0%AE%95%E0%AF%8D%E0%AE%9A%E0%AF%81_%E0%AE%AE%E0%AE%BF%E0%AE%A9%E0%AF%8D%E0%AE%9F%E0%AF%81" title="லினக்சு மின்டு (tamil)" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-te mw-list-item"><a href="https://te.wikipedia.org/wiki/%E0%B0%B2%E0%B0%BF%E0%B0%A8%E0%B0%95%E0%B1%8D%E0%B0%B8%E0%B1%8D_%E0%B0%AE%E0%B0%BF%E0%B0%82%E0%B0%9F%E0%B1%8D" title="లినక్స్ మింట్ (telugu)" lang="te" hreflang="te" class="interlanguage-link-target"><span>తెలుగు</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (turco)" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (ucraniano)" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (uzbeko)" lang="uz" hreflang="uz" class="interlanguage-link-target"><span>Oʻzbekcha/ўзбекча</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (vietnamita)" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (chino wu)" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (chino)" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/Linux_Mint" title="Linux Mint (Cantonese)" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2027#sitelinks-wikipedia" title="Editar enlaces interlingüísticos" class="wbc-editpage">Editar enlaces</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Esta página se editó por última vez el 2 ago 2022 a las 21:40.</li>
+	<li id="footer-info-copyright">El texto está disponible bajo la <a rel="license" href="//es.wikipedia.org/wiki/Wikipedia:Texto_de_la_Licencia_Creative_Commons_Atribuci%C3%B3n-CompartirIgual_3.0_Unported">Licencia Creative Commons Atribución Compartir Igual 3.0</a><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+pueden aplicarse cláusulas adicionales. Al usar este sitio, usted acepta nuestros <a href="//wikimediafoundation.org/wiki/Terms_of_Use">términos de uso</a> y nuestra <a href="//wikimediafoundation.org/wiki/Privacy_policy">política de privacidad</a>. <br/>Wikipedia&reg; es una marca registrada de la <a href="//www.wikimediafoundation.org/">Fundación Wikimedia, Inc.</a>, una organización sin ánimo de lucro.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/es" class="extiw" title="m:Privacy policy/es">Política de privacidad</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:Acerca_de" title="Wikipedia:Acerca de">Acerca de Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:Limitaci%C3%B3n_general_de_responsabilidad" title="Wikipedia:Limitación general de responsabilidad">Limitación de responsabilidad</a></li>
+	<li id="footer-places-mobileview"><a href="//es.m.wikipedia.org/w/index.php?title=Linux_Mint&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Desarrolladores</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wikipedia.org">Estadísticas</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement/es">Declaración de cookies</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.632","walltime":"0.762","ppvisitednodes":{"value":3827,"limit":1000000},"postexpandincludesize":{"value":62753,"limit":2097152},"templateargumentsize":{"value":3016,"limit":2097152},"expansiondepth":{"value":13,"limit":100},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":48203,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  560.379      1 -total"," 33.42%  187.257      1 Plantilla:Ficha_de_software"," 20.52%  115.004      1 Plantilla:Listaref"," 17.56%   98.394      1 Plantilla:Control_de_autoridades","  8.50%   47.627      1 Plantilla:Commonscat","  7.48%   41.933      1 Plantilla:Portal","  7.03%   39.389     24 Plantilla:Cita_web","  6.75%   37.829      2 Plantilla:PortalIconos","  6.06%   33.980      1 Plantilla:Propiedad","  6.00%   33.640      5 Plantilla:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.276","limit":"10.000"},"limitreport-memusage":{"value":5580098,"limit":52428800}},"cachereport":{"origin":"mw1396","timestamp":"20220802214039","ttl":3600,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Linux Mint","url":"https:\/\/es.wikipedia.org\/wiki\/Linux_Mint","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2027","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2027","author":{"@type":"Organization","name":"Colaboradores de los proyectos Wikimedia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-05-17T05:12:13Z","dateModified":"2022-08-02T21:40:38Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/10\/Linux_Mint_20.3_Cinnamon_eng.png","headline":"distribuci\u00f3n del sistema operativo GNU\/Linux, basado en la distribuci\u00f3n Ubuntu"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Linux Mint","url":"https:\/\/es.wikipedia.org\/wiki\/Linux_Mint","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2027","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2027","author":{"@type":"Organization","name":"Colaboradores de los proyectos Wikimedia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-05-17T05:12:13Z","dateModified":"2022-08-02T21:40:38Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/10\/Linux_Mint_20.3_Cinnamon_eng.png","headline":"distribuci\u00f3n del sistema operativo GNU\/Linux, basado en la distribuci\u00f3n Ubuntu"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":124,"wgHostname":"mw1432"});});</script>
+</body>
+</html>
